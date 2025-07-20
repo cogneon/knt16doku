@@ -62,13 +62,10 @@ Daniel Stoller-Schai schlug Reverse Mentoring vor: "Jüngere bringen auch älter
 
 In der abschließenden Runde identifizierten die Experten mehrere wichtige Zukunftstrends:
 
-**Soziales und kollaboratives Lernen**: Daniel Stoller-Schai sah hier noch großes ungenutztes Potenzial und betonte die Bedeutung von Recommendation Bots und personalisiertem, adaptivem Lernen.
-
-**Verschmelzung von Lernen und Arbeiten**: Werner Sauter schlug vor, den Begriff "Lernen" möglicherweise ganz aufzugeben, da er zu sehr mit fremdgesteuerten Lernroutinen verbunden sei. Er prognostizierte den Einsatz humanoider Computer, die nicht nur recherchieren und analysieren, sondern auch emotionale Aspekte bei Entscheidungen berücksichtigen können.
-
-**Neue Technologien und ethische Fragen**: Jochen Robes wies darauf hin, dass zukünftige Empfehlungssysteme von großen Plattformen wie Facebook, LinkedIn oder Google betrieben werden könnten, was neue ethische Fragen aufwerfe.
-
-**Trennung von Compliance und Innovation**: Ein diskutierter Ansatz war die Aufteilung der Weiterbildung in Compliance-Kurse einerseits und innovative, arbeitsplatznahe Lernformen andererseits.
+1. **Soziales und kollaboratives Lernen**: Daniel Stoller-Schai sah hier noch großes ungenutztes Potenzial und betonte die Bedeutung von Recommendation Bots und personalisiertem, adaptivem Lernen.
+2. **Verschmelzung von Lernen und Arbeiten**: Werner Sauter schlug vor, den Begriff "Lernen" möglicherweise ganz aufzugeben, da er zu sehr mit fremdgesteuerten Lernroutinen verbunden sei. Er prognostizierte den Einsatz humanoider Computer, die nicht nur recherchieren und analysieren, sondern auch emotionale Aspekte bei Entscheidungen berücksichtigen können.
+3. **Neue Technologien und ethische Fragen**: Jochen Robes wies darauf hin, dass zukünftige Empfehlungssysteme von großen Plattformen wie Facebook, LinkedIn oder Google betrieben werden könnten, was neue ethische Fragen aufwerfe.
+4. **Trennung von Compliance und Innovation**: Ein diskutierter Ansatz war die Aufteilung der Weiterbildung in Compliance-Kurse einerseits und innovative, arbeitsplatznahe Lernformen andererseits.
 
 ### Fazit
 
