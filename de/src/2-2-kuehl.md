@@ -2,6 +2,8 @@
 
 **Stefan Kühl von der Universität Bielefeld präsentiert eine kritische systemtheoretische Analyse der Konzepte von Wissensmanagement und lernenden Organisationen. Er zeigt auf, wie Organisationen strukturbedingt blinde Flecken produzieren und wie Tabuisierung wichtige Informationen verhindert. Seine zentrale These: IT-gestützte Wissensmanagementsysteme können aufgrund ihrer Transparenz- und Offenheitsprinzipien gerade die kritischsten organisationalen Themen nicht erfassen.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x1C2xgGHyvE?si=K_YP1VsCry9XoJCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Kritik der Verklärung von Wissen und Lernen als Allheilmittel

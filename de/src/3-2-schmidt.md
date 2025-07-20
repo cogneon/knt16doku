@@ -2,6 +2,8 @@
 
 **Ulrich Schmidt teilt in seinem Vortrag persönliche Erfahrungen und Erkenntnisse aus knapp 30 Jahren als Wissensarbeiter. Er zeichnet seinen beruflichen Werdegang von den frühen Jahren im Studium bis zu seiner aktuellen Position bei Continental nach und reflektiert dabei die Entwicklung des Wissensmanagements. Zentrale Themen sind die Bedeutung von Unternehmenskultur, die Notwendigkeit zielgruppenspezifischer Lösungen und die Wichtigkeit der Integration von Wissensmanagement in bestehende Organisationsstrukturen.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rb5oJAZGACk?si=SYoKQe9N1eWgqqZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 1. Frühe Erfahrungen als "Information Broker" im Studium
 2. Beruflicher Werdegang und Stationen im Wissensmanagement

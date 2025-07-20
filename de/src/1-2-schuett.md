@@ -2,6 +2,8 @@
 
 **Peter Schütt von IBM präsentierte eine umfassende Betrachtung des Wissensmanagements von seinen Anfängen bis hin zur kognitiven Ära. Er erläuterte die historische Entwicklung von Peter Druckers Knowledge Worker-Konzept über die verschiedenen Schulen des Wissensmanagements bis hin zu aktuellen Herausforderungen durch Datenexplosion und die Rolle kognitiver Systeme als Assistenztechnologien.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LoV9EyTokOA?si=2Wja2WoSXfiXZqlh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Begriffsverwirrung und verschiedene Schulen des Wissensmanagements

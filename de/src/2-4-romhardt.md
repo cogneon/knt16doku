@@ -2,6 +2,8 @@
 
 **Kai Romhardt reflektiert seine 20-jährige Reise im Wissensmanagement und zeigt auf, wie Achtsamkeit und Meditation neue Dimensionen für die Wissensarbeit eröffnen. Von den Anfängen des Wissensmanagements über persönliche Krisen bis hin zur Integration buddhistischer Achtsamkeitspraktiken in moderne Organisationen - ein Plädoyer für bewusstere und sinnvollere Formen der Wissensarbeit.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZVZ88y31lkc?si=W0tJsuo-Nc1j2soU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Die Anfänge des Wissensmanagements und die Community der "Knowledge Cowboys"

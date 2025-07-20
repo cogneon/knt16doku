@@ -2,6 +2,8 @@
 
 **Franz Lehner analysiert die problematische Entwicklung des Wissensmanagements als Disziplin und zeigt auf, wie sich eine Kluft zwischen akademischer Forschung und praktischer Anwendung entwickelt hat. Er verdeutlicht, dass trotz etablierter Wissensmanagement-Abteilungen in vielen Unternehmen der messbare Nutzen oft unklar bleibt und fordert eine Standardisierung der Disziplin, um aus der aktuellen "Wissenswerkstatt" eine verlässliche "Fahrradklinik" zu werden.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mDUTRCFgac8?si=FB_2sZDYCXmeOuxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Die paradoxe Situation des Wissensmanagements heute

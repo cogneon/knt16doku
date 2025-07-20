@@ -2,6 +2,8 @@
 
 **Professor Pawlowsky reflektiert in seinem Vortrag über 25 Jahre persönliche Erfahrung mit Wissensmanagement aus der Perspektive der Personalführung. Er zeichnet die Entwicklung des Wissensmanagements in sechs Phasen nach - von den frühen organisationstheoretischen Wurzeln in den 1960er Jahren bis hin zu aktuellen Trends wie Predictive Analytics und Social Innovation. Dabei zeigt er auf, wie sich das Verständnis von Wissen von einem rationalen, objektiven Konzept hin zu einem subjektiven, konstruktivistischen Prozess gewandelt hat und welche ethischen Herausforderungen sich für die Zukunft ergeben.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KB59XK2G9bo?si=DePSfVwNqkQUcRW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Persönliche Motivation und Ausgangspunkt für die Beschäftigung mit Wissensmanagement

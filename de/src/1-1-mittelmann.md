@@ -2,6 +2,8 @@
 
 **Angelika Mittelmann teilt in diesem Webinar ihre langjährigen Erfahrungen mit Wissensmanagement und skizziert sowohl ein Idealszenario als auch ein Horrorszenario für die Zukunft der Wissensgesellschaft. Basierend auf über 20 Jahren praktischer Arbeit bei Voestalpine und in der österreichischen Wissensmanagement-Community zeigt sie Erfolgsstrategien für eine demokratische, lernende Gesellschaft auf.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DKVAHDPm4Xs?si=rQZ9B6Zjocx8HK8S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Aktuelle Entwicklungen in Digitalisierung und Industrie 4.0

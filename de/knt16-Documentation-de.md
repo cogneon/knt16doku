@@ -20,11 +20,14 @@ toc-own-page: true
 
 # Willkommen
 
-![](./images/loscon25-key-visual-banner.png)
-
-Die **KnowTouch 2016** (#knt16) fand vom 26.-27. Oktober 2016 unter dem
-Motto **"20 Jahre Wissensmanagement? Was haben wir gelernt? Wohin geht
-die Reise?"** in der Cogneon Akademie in Nürnberg statt.
+Die [KnowTouch 2016](https://wiki.cogneon.de/knt16) (#knt16) fand mit 40
+Teilnehmer:innen vom 26.-27. Oktober 2016 mit unter dem Motto **"20
+Jahre Wissensmanagement? Was haben wir gelernt? Wohin geht die Reise?"**
+in der Cogneon Akademie in Nürnberg statt. Die KnowTouch ist der
+Nachfolger der KnowTech und der Urvater der LernOS Convention. Die
+KnowTouch 2016 bestand aus vier vorgelagerten Webinaren zur
+Vorbereitung, vier Keynotes, acht Vorträgen und 19 Barcamp Sessions.
+Moderiert wurde die knt16 von Joachim Niemeier und Karlheinz Pape.
 
 ![](./images/knt16-gruppenbild.jpg)
 
@@ -38,6 +41,9 @@ als auch ein Horrorszenario für die Zukunft der Wissensgesellschaft.
 Basierend auf über 20 Jahren praktischer Arbeit bei Voestalpine und in
 der österreichischen Wissensmanagement-Community zeigt sie
 Erfolgsstrategien für eine demokratische, lernende Gesellschaft auf.**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DKVAHDPm4Xs?si=rQZ9B6Zjocx8HK8S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 Hauptthemen des Beitrags:
 
@@ -245,6 +251,9 @@ Worker-Konzept über die verschiedenen Schulen des Wissensmanagements bis
 hin zu aktuellen Herausforderungen durch Datenexplosion und die Rolle
 kognitiver Systeme als Assistenztechnologien.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LoV9EyTokOA?si=2Wja2WoSXfiXZqlh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Begriffsverwirrung und verschiedene Schulen des Wissensmanagements
@@ -405,6 +414,9 @@ Zukunft zu werfen. Werner Sauter, Daniel Stoller-Schai und Jochen Robes
 diskutierten unter der Moderation von Simon Dückert sowohl die
 historische Entwicklung als auch aktuelle Herausforderungen und
 Zukunftstrends im Bereich des organisationalen Lernens.**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XRkBwGkP8XM?si=q0Lg4aSXgfSU2SIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 Hauptthemen des Beitrags:
 
@@ -590,6 +602,9 @@ Hoffnungsträger für eine bessere Zukunft sieht er die Entwicklung eines
 ISO-Standards für Wissensmanagement, der endlich Klarheit und
 einheitliche Prinzipien schaffen könnte.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S1-T3cO3zFw?si=6zxTSl42SXRKf585" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Aktueller Zustand des Wissensmanagements: Verwirrung und
@@ -758,6 +773,9 @@ nicht am Ende, sondern erst am Anfang einer exponentiellen Entwicklung
 steht. Er argumentiert für einen Wandel von einzelnen Tools hin zu
 organisationsweiten Frameworks und betont die Bedeutung der digital
 vernetzten Wissensgesellschaft für die Zukunft.**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TUR6G7ltNes?si=etv9B-kS-qIUEhrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 Hauptthemen des Beitrags:
 
@@ -928,6 +946,9 @@ Wissensmanagementsysteme können aufgrund ihrer Transparenz- und
 Offenheitsprinzipien gerade die kritischsten organisationalen Themen
 nicht erfassen.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x1C2xgGHyvE?si=K_YP1VsCry9XoJCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Kritik der Verklärung von Wissen und Lernen als Allheilmittel
@@ -1081,6 +1102,9 @@ und Social Innovation. Dabei zeigt er auf, wie sich das Verständnis von
 Wissen von einem rationalen, objektiven Konzept hin zu einem
 subjektiven, konstruktivistischen Prozess gewandelt hat und welche
 ethischen Herausforderungen sich für die Zukunft ergeben.**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KB59XK2G9bo?si=DePSfVwNqkQUcRW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 Hauptthemen des Beitrags:
 
@@ -1333,6 +1357,9 @@ persönliche Krisen bis hin zur Integration buddhistischer
 Achtsamkeitspraktiken in moderne Organisationen - ein Plädoyer für
 bewusstere und sinnvollere Formen der Wissensarbeit.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZVZ88y31lkc?si=W0tJsuo-Nc1j2soU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Die Anfänge des Wissensmanagements und die Community der "Knowledge
@@ -1526,6 +1553,9 @@ Digitalisierung. Sein zentraler Ansatz: Wissensmanagement als Balance
 zwischen persönlichem Wissensaustausch und informationsgestützten
 Systemen zu verstehen.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MJ3LUvQHEeY?si=h8RvrjvUtRBfCwgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Historische Entwicklung des Wissensmanagements bei Siemens
@@ -1715,6 +1745,9 @@ Entwicklung des Wissensmanagements. Zentrale Themen sind die Bedeutung
 von Unternehmenskultur, die Notwendigkeit zielgruppenspezifischer
 Lösungen und die Wichtigkeit der Integration von Wissensmanagement in
 bestehende Organisationsstrukturen.**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rb5oJAZGACk?si=SYoKQe9N1eWgqqZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 Hauptthemen des Beitrags: 1. Frühe Erfahrungen als "Information Broker"
 im Studium 2. Beruflicher Werdegang und Stationen im Wissensmanagement
@@ -1940,6 +1973,9 @@ strategische Verankerung auf Eigentümerebene und die praktische
 Umsetzung durch Communities, Social Networking und moderne
 Collaboration-Tools.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DUJCWug2hc0?si=2IaaFsQjoiPPan4H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Unternehmenskontext und strategische Verankerung von
@@ -2160,6 +2196,9 @@ strategischer Prioritäten bleibt Wissensmanagement ein zentrales Element
 der Organisationsentwicklung, auch wenn es heute unter anderen Begriffen
 firmiert.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hnXBcz8Ki4M?si=rozwkAvSVD8BzkhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Frühe strategische Phase des Wissensmanagements (2005-2008)
@@ -2360,6 +2399,9 @@ Untersuchung. Dabei wird deutlich, dass die Transformation von
 klassischem zu sozialem Lernen nicht nur technische, sondern vor allem
 kulturelle und organisatorische Hürden mit sich bringt.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cAGgUaGXo1o?si=38dX3w2EAT0TPDf1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Theoretische Grundlagen von Akzeptanz und Motivation
@@ -2544,6 +2586,9 @@ Das Programm kombiniert theoretische Fundierung mit praktischer
 Anwendung in einem innovativen Blended-Learning-Format. Trotz
 erfolgreicher Durchführung von fünf Jahrgängen steht der Studiengang vor
 strukturellen Herausforderungen bezüglich seiner Zukunftsfähigkeit.**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vpV0sMuoOFI?si=hGEbmn2QJgBjNp9z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 Hauptthemen des Beitrags:
 
@@ -2771,6 +2816,9 @@ Anforderungen einer vernetzten, digitalisierten Arbeitswelt und stellt
 konkrete Ansätze für eine zukunftsorientierte Ausbildungsgestaltung
 vor.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qHuWC4b1S1M?si=r3DMmjvtec0p8L4O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Digitaler Wandel und seine Auswirkungen auf die Industrie
@@ -2970,6 +3018,9 @@ oft unklar bleibt und fordert eine Standardisierung der Disziplin, um
 aus der aktuellen "Wissenswerkstatt" eine verlässliche "Fahrradklinik"
 zu werden.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mDUTRCFgac8?si=FB_2sZDYCXmeOuxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 Hauptthemen des Beitrags:
 
 1.  Die paradoxe Situation des Wissensmanagements heute
@@ -3148,4 +3199,42 @@ auch wissen, was sie wirklich von uns kriegen."
 
 ## Anhang
 
-[KnowTouch 2016 in COPEDIA](https://wiki.cogneon.de/knt16).
+### Geschichte der KnowTouch
+
+Die [Bitkom](https://de.wikipedia.org/wiki/Bitkom), der **Brachenverband
+der deutschen Informations- und Telekommunikationsbranche**, hat von
+1999-2015 die [KnowTech](https://wiki.cogneon.de/KnowTech) als deutsche
+Leitkonferenz zum Thema Wissensmanagement organisiert. Neben dem
+regelmäßig tagenden Bitkom Arbeitskreis Knowledge Management war die
+KnowTech das "jährliche Klassentreffen der Wissensmanager".
+
+Im Jahr **2015** hat die Bitkom die KnowTech zum letzten Mal organisiert
+und **zugunsten des "Big Data Summit" aufgegeben**. Damit die Funktion
+des Klassentreffens nicht wegfällt, hat Cogneon die Organisation einer
+Nachfolgeveranstaltung übernommen. Um den Aufwand der Logistik im Rahmen
+zu halten, wurde die Anzahl der Plätze auf 40 begrenzt, um die
+Veranstaltung in der Cogneon Akademie durchführen zu können. Weitere
+Teilnehmende waren über den Livestream der Keynotes zugeschaltet.
+
+![](./images/knt16-flyer-auszug.png)
+
+Um nicht mit der Bitkom in lange Verhandlung über Veranstaltungsname und
+Domain eintreten zu müssen, wurde der Name **"KnowTouch"** in Anlehnung
+an die [acht Megatrends nach John
+Naisbitt](https://en.wikipedia.org/wiki/High-touch) (High Tech / High
+Touch) gewählt. Weitere Informationen zur Veranstaltung befinden sich
+auf der Seite [KnowTouch 2016](https://wiki.cogneon.de/knt16) in
+COPEDIA.
+
+### Toolset der KnowTouch 2016
+
+Die knt16 war eine Präsenzveranstaltung mit Livestream, d.h. am Programm
+konnten Remote-Teilnehmde nicht interaktiv teilnehmen.
+
+- **Infoseite:** CONNECT Community
+- **Ticketing:** Xing Events
+- **Livestream der Keynotes:** ATEM TV Studio, YouTube Live
+- **Kamera 1:** Canon XA25 (ist bei der loscon25 immer noch im Einsatz
+  gewesen)
+- **Kamera 2:** Panasonic Camcorder HDC-SD707
+- **Winkekatze:** orange

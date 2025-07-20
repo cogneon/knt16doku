@@ -2,6 +2,8 @@
 
 **Der berufsbegleitende Masterstudiengang Informations- und Wissensmanagement der Hochschule Hannover wurde 2005 entwickelt und bietet seit 2006 eine praxisorientierte Weiterbildung für Berufstätige. Das Programm kombiniert theoretische Fundierung mit praktischer Anwendung in einem innovativen Blended-Learning-Format. Trotz erfolgreicher Durchführung von fünf Jahrgängen steht der Studiengang vor strukturellen Herausforderungen bezüglich seiner Zukunftsfähigkeit.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vpV0sMuoOFI?si=hGEbmn2QJgBjNp9z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Entstehung und Konzeption des Studiengangs

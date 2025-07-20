@@ -2,6 +2,8 @@
 
 **Simon Dückert reflektiert in seinem Vortrag die Entwicklung des Wissensmanagements der letzten 20 Jahre und zeigt auf, dass das Thema nicht am Ende, sondern erst am Anfang einer exponentiellen Entwicklung steht. Er argumentiert für einen Wandel von einzelnen Tools hin zu organisationsweiten Frameworks und betont die Bedeutung der digital vernetzten Wissensgesellschaft für die Zukunft.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TUR6G7ltNes?si=etv9B-kS-qIUEhrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Die aktuelle Situation des Wissensmanagements nach 20 Jahren

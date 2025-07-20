@@ -2,6 +2,8 @@
 
 **Die EnBW blickt auf eine über 20-jährige Geschichte des Wissensmanagements zurück, die von strategischen Höhenflügen bis hin zu pragmatischen Neuausrichtungen reicht. Der Vortrag zeigt die Evolution von klassischen Wissensmanagement-Ansätzen hin zu modernen, agilen Arbeitsformen und digitalen Lernumgebungen auf. Trotz wechselnder strategischer Prioritäten bleibt Wissensmanagement ein zentrales Element der Organisationsentwicklung, auch wenn es heute unter anderen Begriffen firmiert.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hnXBcz8Ki4M?si=rozwkAvSVD8BzkhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Frühe strategische Phase des Wissensmanagements (2005-2008)

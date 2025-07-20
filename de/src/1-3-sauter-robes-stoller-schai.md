@@ -2,6 +2,8 @@
 
 **Diese Paneldiskussion auf dem Corporate Learning Camp 2016 brachte drei renommierte Experten zusammen, um die Entwicklung des Corporate Learning in den letzten 20 Jahren zu reflektieren und einen Blick in die Zukunft zu werfen. Werner Sauter, Daniel Stoller-Schai und Jochen Robes diskutierten unter der Moderation von Simon Dückert sowohl die historische Entwicklung als auch aktuelle Herausforderungen und Zukunftstrends im Bereich des organisationalen Lernens.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XRkBwGkP8XM?si=q0Lg4aSXgfSU2SIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Historische Entwicklung des Corporate Learning (1990er Jahre bis heute)

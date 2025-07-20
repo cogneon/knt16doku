@@ -2,6 +2,8 @@
 
 **Karsten Ehms reflektiert in seinem Vortrag über zwei Dekaden Wissensmanagement bei Siemens und zeigt auf, warum die Transformation in diesem Bereich langsamer vorangeht als erhofft. Er analysiert typische Fehler und Herausforderungen, stellt bewährte Werkzeuge vor und entwickelt eine neue Perspektive für Wissensmanagement im Zeitalter der Digitalisierung. Sein zentraler Ansatz: Wissensmanagement als Balance zwischen persönlichem Wissensaustausch und informationsgestützten Systemen zu verstehen.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MJ3LUvQHEeY?si=h8RvrjvUtRBfCwgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Historische Entwicklung des Wissensmanagements bei Siemens

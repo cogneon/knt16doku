@@ -2,6 +2,8 @@
 
 **Eva-Maria Bruch und Martin Kimmich teilen ihre Erfahrungen aus über zehn Jahren Wissensmanagement bei Festo, einem Weltmarktführer in der Industrieautomatisierung. Der Vortrag zeigt die Evolution von einem IT-zentrierten Ansatz hin zu einem integrierten Konzept, das Wissens- und Kompetenzmanagement verbindet und dabei sowohl technische Tools als auch kulturelle Aspekte berücksichtigt. Besonders hervorzuheben ist die strategische Verankerung auf Eigentümerebene und die praktische Umsetzung durch Communities, Social Networking und moderne Collaboration-Tools.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DUJCWug2hc0?si=2IaaFsQjoiPPan4H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Unternehmenskontext und strategische Verankerung von Wissensmanagement bei Festo

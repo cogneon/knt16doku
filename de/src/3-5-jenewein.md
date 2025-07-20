@@ -2,6 +2,8 @@
 
 **SAP hat in den letzten Jahren verstärkt auf die Digitalisierung des Lernens gesetzt und dabei Lern-Communities als zentrales Element etabliert. Der Vortrag von Thomas Jenewein beleuchtet die Herausforderungen bei der Akzeptanz und Motivation in SAP-Lern-Communities und präsentiert Erkenntnisse aus einer empirischen Untersuchung. Dabei wird deutlich, dass die Transformation von klassischem zu sozialem Lernen nicht nur technische, sondern vor allem kulturelle und organisatorische Hürden mit sich bringt.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cAGgUaGXo1o?si=38dX3w2EAT0TPDf1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Theoretische Grundlagen von Akzeptanz und Motivation

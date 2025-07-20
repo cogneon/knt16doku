@@ -2,6 +2,8 @@
 
 **Nick Milton, einer der führenden Experten im Wissensmanagement, reflektiert in diesem Webinar über 20 Jahre Entwicklung im Bereich Knowledge Management. Er analysiert den aktuellen Zustand der Disziplin, identifiziert anhaltende Verwirrungen und Fallstricke und entwirft zwei Zukunftsvisionen - eine himmlische und eine höllische. Als Hoffnungsträger für eine bessere Zukunft sieht er die Entwicklung eines ISO-Standards für Wissensmanagement, der endlich Klarheit und einheitliche Prinzipien schaffen könnte.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S1-T3cO3zFw?si=6zxTSl42SXRKf585" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hauptthemen des Beitrags:
 
 1. Aktueller Zustand des Wissensmanagements: Verwirrung und Kernbereiche
