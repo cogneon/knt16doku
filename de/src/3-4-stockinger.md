@@ -4,7 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hnXBcz8Ki4M?si=rozwkAvSVD8BzkhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Werner Stockinger](https://www.linkedin.com/in/werner-stockinger-133654138/)
+* **Material:** [Folien](https://cloud.cogneon.de/s/LkARXPYjRJwHMje)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=hnXBcz8Ki4M&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=10)
+* **Transkript:** [txt](3-4-stockinger.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Frühe strategische Phase des Wissensmanagements (2005-2008)
 2. Operative Umsetzung durch Wissenstransfer-Methoden

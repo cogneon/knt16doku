@@ -4,7 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S1-T3cO3zFw?si=6zxTSl42SXRKf585" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Nick Milton](https://www.linkedin.com/in/nickmilton/)
+* **Material:** [Folien](https://cloud.cogneon.de/s/pzSRk9AGCeRtpdi)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=S1-T3cO3zFw&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=4)
+* **Transkript:** [txt](1-4-milton.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Aktueller Zustand des Wissensmanagements: Verwirrung und Kernbereiche
 2. Rückblick: Die "11 tödlichen Sünden" von vor 20 Jahren und ihre anhaltende Relevanz

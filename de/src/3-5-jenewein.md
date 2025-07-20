@@ -4,7 +4,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cAGgUaGXo1o?si=38dX3w2EAT0TPDf1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Thomas Jenewein](https://www.linkedin.com/in/thomasjenewein/)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=cAGgUaGXo1o&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=14)
+* **Transkript:** [txt](3-5-jeneweing.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Theoretische Grundlagen von Akzeptanz und Motivation
 2. SAP Learning Hub und Community-Struktur

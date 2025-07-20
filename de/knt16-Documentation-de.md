@@ -45,7 +45,16 @@ Erfolgsstrategien für eine demokratische, lernende Gesellschaft auf.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DKVAHDPm4Xs?si=rQZ9B6Zjocx8HK8S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Angelika
+  Mittelmann](https://www.linkedin.com/in/angelika-mittelmann-208ab2284/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/Sazw5EqPeFWjnGX)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=DKVAHDPm4Xs&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=1)
+- **Transkript:** [txt](1-1-mittelmann.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Aktuelle Entwicklungen in Digitalisierung und Industrie 4.0
 2.  Persönliche Herkunft und Erfahrungen im Wissensmanagement
@@ -254,7 +263,16 @@ kognitiver Systeme als Assistenztechnologien.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LoV9EyTokOA?si=2Wja2WoSXfiXZqlh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Peter
+  Schütt](https://www.linkedin.com/in/peterschuett/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/5BwXitQ38C6rpXz)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=LoV9EyTokOA&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=2)
+- **Transkript:** [txt](1-2-schuett.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Begriffsverwirrung und verschiedene Schulen des Wissensmanagements
 2.  Historische Entwicklung von Scientific Management bis Cognitive
@@ -418,7 +436,17 @@ Zukunftstrends im Bereich des organisationalen Lernens.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XRkBwGkP8XM?si=q0Lg4aSXgfSU2SIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Werner
+  Sauter](https://www.linkedin.com/in/prof-dr-werner-sauter-07202228/),
+  [Jochen Robes](https://www.linkedin.com/in/jrobes/), [Daniel
+  Stoller-Schai](https://www.linkedin.com/in/stollerschai/)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=XRkBwGkP8XM&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=3)
+- **Transkript:** [txt](1-3-sauter-robes-stoller-schai.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Historische Entwicklung des Corporate Learning (1990er Jahre bis
     heute)
@@ -605,7 +633,16 @@ einheitliche Prinzipien schaffen könnte.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S1-T3cO3zFw?si=6zxTSl42SXRKf585" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Nick
+  Milton](https://www.linkedin.com/in/nickmilton/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/pzSRk9AGCeRtpdi)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=S1-T3cO3zFw&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=4)
+- **Transkript:** [txt](1-4-milton.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Aktueller Zustand des Wissensmanagements: Verwirrung und
     Kernbereiche
@@ -958,12 +995,16 @@ nicht erfassen.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x1C2xgGHyvE?si=K_YP1VsCry9XoJCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-- **Referent:innen:**
-- **Material:**
+- **Referent:innen:** [Stefan
+  Kühl](https://www.linkedin.com/in/stefan-k%C3%BChl-7875213/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/jqqo9ZsaMpefzyk)
 - **Aufzeichnung:**
-- **Transkript:**
+  [Video](https://www.youtube.com/watch?v=x1C2xgGHyvE&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=6)
+- **Transkript:** [txt](2-2-kuehl.txt)
 
-Hauptthemen des Beitrags:
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Kritik der Verklärung von Wissen und Lernen als Allheilmittel
 2.  Strukturbedingte Produktion von blinden Flecken in Organisationen
@@ -1120,7 +1161,16 @@ ethischen Herausforderungen sich für die Zukunft ergeben.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KB59XK2G9bo?si=DePSfVwNqkQUcRW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Peter
+  Pawlowsky](https://www.linkedin.com/in/univ-prof-dr-peter-pawlowsky-87985648/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/eb6sHHnbpkD4xkQ)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=KB59XK2G9bo&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=7)
+- **Transkript:** [txt](2-3-pawlowsky.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Persönliche Motivation und Ausgangspunkt für die Beschäftigung mit
     Wissensmanagement
@@ -1374,7 +1424,15 @@ bewusstere und sinnvollere Formen der Wissensarbeit.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZVZ88y31lkc?si=W0tJsuo-Nc1j2soU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Kai
+  Romhardt](https://www.linkedin.com/in/dr-kai-romhardt-237b64/)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=ZVZ88y31lkc&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=8)
+- **Transkript:** [txt](2-4-romhardt.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Die Anfänge des Wissensmanagements und die Community der "Knowledge
     Cowboys"
@@ -1570,7 +1628,15 @@ Systemen zu verstehen.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MJ3LUvQHEeY?si=h8RvrjvUtRBfCwgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Karsten
+  Ehms](https://www.linkedin.com/in/dr-karsten-ehms-714739a/)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=MJ3LUvQHEeY&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=15)
+- **Transkript:** [txt](3-1-ehms.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Historische Entwicklung des Wissensmanagements bei Siemens
 2.  Bewährte Werkzeuge und Plattformen
@@ -1763,11 +1829,21 @@ bestehende Organisationsstrukturen.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rb5oJAZGACk?si=SYoKQe9N1eWgqqZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags: 1. Frühe Erfahrungen als "Information Broker"
-im Studium 2. Beruflicher Werdegang und Stationen im Wissensmanagement
-3. Erkenntnisse und Lessons Learned aus verschiedenen Unternehmen 4.
-Zentrale Maximen für erfolgreiches Wissensmanagement 5. Aktuelle
-Projekte und Verschwendungsarten bei Wissensarbeit
+- **Referent:innen:** [Ulrich
+  Schmidt](https://www.linkedin.com/in/ulrich-schmidt-43648b1/)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=rb5oJAZGACk&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=11)
+- **Transkript:** [txt](3-2-schmidt.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
+
+1.  Frühe Erfahrungen als "Information Broker" im Studium
+2.  Beruflicher Werdegang und Stationen im Wissensmanagement
+3.  Erkenntnisse und Lessons Learned aus verschiedenen Unternehmen
+4.  Zentrale Maximen für erfolgreiches Wissensmanagement
+5.  Aktuelle Projekte und Verschwendungsarten bei Wissensarbeit
 
 ### Frühe Erfahrungen als "Information Broker" im Studium
 
@@ -1990,7 +2066,17 @@ Collaboration-Tools.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DUJCWug2hc0?si=2IaaFsQjoiPPan4H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Eva-Maria
+  Bruch](https://www.linkedin.com/in/eva-maria-nagel-8990036/), [Martin
+  Kimmich](https://www.linkedin.com/in/martin-kimmich-8b74384/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/sjFYaBk7wE8sdx6)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=DUJCWug2hc0&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=16)
+- **Transkript:** [txt](3-3-bruch-kimmich.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Unternehmenskontext und strategische Verankerung von
     Wissensmanagement bei Festo
@@ -2213,7 +2299,16 @@ firmiert.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hnXBcz8Ki4M?si=rozwkAvSVD8BzkhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Werner
+  Stockinger](https://www.linkedin.com/in/werner-stockinger-133654138/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/LkARXPYjRJwHMje)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=hnXBcz8Ki4M&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=10)
+- **Transkript:** [txt](3-4-stockinger.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Frühe strategische Phase des Wissensmanagements (2005-2008)
 2.  Operative Umsetzung durch Wissenstransfer-Methoden
@@ -2416,7 +2511,15 @@ kulturelle und organisatorische Hürden mit sich bringt.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cAGgUaGXo1o?si=38dX3w2EAT0TPDf1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Thomas
+  Jenewein](https://www.linkedin.com/in/thomasjenewein/)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=cAGgUaGXo1o&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=14)
+- **Transkript:** [txt](3-5-jeneweing.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Theoretische Grundlagen von Akzeptanz und Motivation
 2.  SAP Learning Hub und Community-Struktur
@@ -2604,7 +2707,16 @@ strukturellen Herausforderungen bezüglich seiner Zukunftsfähigkeit.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vpV0sMuoOFI?si=hGEbmn2QJgBjNp9z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Anna
+  Gutzmann](https://www.linkedin.com/in/annagutzmann/), [Gudrun
+  Behm-Steidel](https://www.linkedin.com/in/gudrunbehmsteidel/)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=vpV0sMuoOFI&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=12)
+- **Transkript:** [txt](3-6-gutzmann-behm-steidel.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Entstehung und Konzeption des Studiengangs
 2.  Studienorganisation und Zielgruppe
@@ -2833,7 +2945,15 @@ vor.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qHuWC4b1S1M?si=r3DMmjvtec0p8L4O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Paul
+  Seren](https://www.linkedin.com/in/paul-seren-4b327490/)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=qHuWC4b1S1M&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=9)
+- **Transkript:** [txt](3-7-seren.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Digitaler Wandel und seine Auswirkungen auf die Industrie
 2.  Herausforderungen in der aktuellen Ausbildungslandschaft
@@ -3035,7 +3155,15 @@ zu werden.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mDUTRCFgac8?si=FB_2sZDYCXmeOuxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Franz
+  Lehner](https://de.wikipedia.org/wiki/Franz_Lehner_(Wirtschaftsinformatiker))
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=mDUTRCFgac8&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=13)
+- **Transkript:** [txt](3-8-lehner.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Die paradoxe Situation des Wissensmanagements heute
 2.  Die entstehende Kluft zwischen Theorie und Praxis
@@ -3183,33 +3311,34 @@ auch wissen, was sie wirklich von uns kriegen."
 
 ## Sessions
 
-- Martin Geisenhainer: Wissensmanagement 2.0: Ask the brain - Wie geht
-  Wissensmanagement mit Social Media?
-- Peter Taubmann: ISO 9001 und Wissensmanagement: wie bereitet man das
-  am besten auf?
-- Manuela Schöniger: Aufbau Wissensmanagement-Controlling
-- Ulrich Schmidt: Verschwendungsfaktoren in der Wissensarbeit
-- Karlheinz Pape: Twitter als Lern-Booster? Persönlicher
+- **Martin Geisenhainer:** Wissensmanagement 2.0: Ask the brain - Wie
+  geht Wissensmanagement mit Social Media?
+- **Peter Taubmann:** ISO 9001 und Wissensmanagement: wie bereitet man
+  das am besten auf?
+- **Manuela Schöniger:** Aufbau Wissensmanagement-Controlling
+- **Ulrich Schmidt:** Verschwendungsfaktoren in der Wissensarbeit
+- **Karlheinz Pape:** Twitter als Lern-Booster? Persönlicher
   Erfahrungsbericht
-- Burghard Jacobshagen: Welche Rolle spielt Enterprise Search im
+- **Burghard Jacobshagen:** Welche Rolle spielt Enterprise Search im
   Wissensmanagement?
-- Anke Wendelken, Carsten Freundl: Sinnvolle Dokumentation in Barcamps?
-- Karsten Ehms: Q&A zum Referat: Professionelles Wissen über
+- **Anke Wendelken, Carsten Freundl:** Sinnvolle Dokumentation in
+  Barcamps?
+- **Karsten Ehms:** Q&A zum Referat: Professionelles Wissen über
   Wissensmanagement
-- Simon Dückert: Do-It-Yourself Livestream
-- Harald Schirmer: Flipped Conference
-- Anna Gutzmann: Wissensmanagement lehren: Welche Inhalte sollten wir
-  vermitteln?
-- Simon Dückert: Auf den Schultern von Giganten (109 Paper der KnowTech
-  1999)
-- Thomas Jenewein: Lernkultur entwickeln: Ansätze, Beispiele?
-- Ulrich Schmidt: 9 Verschwendungsfaktoren im Wissensmanagement: Analyse
-  auf Arbeitsebene
-- Frank Gerich: Wohin gehst du, Wissensmanagement?
-- Frank Edelkraut: Agiles Lernen - Agile Transformation
-- Carsten Freundl: Lernräume: Wie wollen wir lernen?
-- Stefan Diepolder: Digitale Kompetenzen im Unternehmen
-- Peter Taubmann: Wissensmanagement-Audits vs. Wissensbilanzen
+- **Simon Dückert:** Do-It-Yourself Livestream
+- **Harald Schirmer:** Flipped Conference
+- **Anna Gutzmann:** Wissensmanagement lehren: Welche Inhalte sollten
+  wir vermitteln?
+- **Simon Dückert:** Auf den Schultern von Giganten (109 Paper der
+  KnowTech 1999)
+- **Thomas Jenewein:** Lernkultur entwickeln: Ansätze, Beispiele?
+- **Ulrich Schmidt:** 9 Verschwendungsfaktoren im Wissensmanagement:
+  Analyse auf Arbeitsebene
+- **Frank Gerich:** Wohin gehst du, Wissensmanagement?
+- **Frank Edelkraut:** Agiles Lernen - Agile Transformation
+- **Carsten Freundl:** Lernräume: Wie wollen wir lernen?
+- **Stefan Diepolder:** Digitale Kompetenzen im Unternehmen
+- **Peter Taubmann:** Wissensmanagement-Audits vs. Wissensbilanzen
 
 ## Anhang
 

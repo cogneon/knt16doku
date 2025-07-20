@@ -4,7 +4,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MJ3LUvQHEeY?si=h8RvrjvUtRBfCwgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Karsten Ehms](https://www.linkedin.com/in/dr-karsten-ehms-714739a/)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=MJ3LUvQHEeY&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=15)
+* **Transkript:** [txt](3-1-ehms.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Historische Entwicklung des Wissensmanagements bei Siemens
 2. Bewährte Werkzeuge und Plattformen

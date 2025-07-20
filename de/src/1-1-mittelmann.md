@@ -4,7 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DKVAHDPm4Xs?si=rQZ9B6Zjocx8HK8S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Angelika Mittelmann](https://www.linkedin.com/in/angelika-mittelmann-208ab2284/)
+* **Material:** [Folien](https://cloud.cogneon.de/s/Sazw5EqPeFWjnGX)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=DKVAHDPm4Xs&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=1)
+* **Transkript:** [txt](1-1-mittelmann.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Aktuelle Entwicklungen in Digitalisierung und Industrie 4.0
 2. Persönliche Herkunft und Erfahrungen im Wissensmanagement

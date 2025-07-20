@@ -4,7 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LoV9EyTokOA?si=2Wja2WoSXfiXZqlh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Peter Schütt](https://www.linkedin.com/in/peterschuett/)
+* **Material:** [Folien](https://cloud.cogneon.de/s/5BwXitQ38C6rpXz)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=LoV9EyTokOA&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=2)
+* **Transkript:** [txt](1-2-schuett.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Begriffsverwirrung und verschiedene Schulen des Wissensmanagements
 2. Historische Entwicklung von Scientific Management bis Cognitive Computing

@@ -4,7 +4,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZVZ88y31lkc?si=W0tJsuo-Nc1j2soU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Kai Romhardt](https://www.linkedin.com/in/dr-kai-romhardt-237b64/)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=ZVZ88y31lkc&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=8)
+* **Transkript:** [txt](2-4-romhardt.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Die Anfänge des Wissensmanagements und die Community der "Knowledge Cowboys"
 2. Vom lebendigen Prozess zum starren Modell - Erfahrungen mit dem Acht-Bausteine-Modell

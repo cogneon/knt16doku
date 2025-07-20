@@ -4,7 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DUJCWug2hc0?si=2IaaFsQjoiPPan4H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Eva-Maria Bruch](https://www.linkedin.com/in/eva-maria-nagel-8990036/), [Martin Kimmich](https://www.linkedin.com/in/martin-kimmich-8b74384/)
+* **Material:** [Folien](https://cloud.cogneon.de/s/sjFYaBk7wE8sdx6)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=DUJCWug2hc0&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=16)
+* **Transkript:** [txt](3-3-bruch-kimmich.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Unternehmenskontext und strategische Verankerung von Wissensmanagement bei Festo
 2. Organisatorische Einbettung und Selbstverständnis des Wissensmanagements

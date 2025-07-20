@@ -4,12 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x1C2xgGHyvE?si=K_YP1VsCry9XoJCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* **Referent:innen:** 
-* **Material:** 
-* **Aufzeichnung:** 
-* **Transkript:** 
+* **Referent:innen:** [Stefan Kühl](https://www.linkedin.com/in/stefan-k%C3%BChl-7875213/)
+* **Material:** [Folien](https://cloud.cogneon.de/s/jqqo9ZsaMpefzyk)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=x1C2xgGHyvE&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=6)
+* **Transkript:** [txt](2-2-kuehl.txt)
 
-Hauptthemen des Beitrags:
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Kritik der Verklärung von Wissen und Lernen als Allheilmittel
 1. Strukturbedingte Produktion von blinden Flecken in Organisationen

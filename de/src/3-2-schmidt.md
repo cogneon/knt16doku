@@ -4,7 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rb5oJAZGACk?si=SYoKQe9N1eWgqqZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Ulrich Schmidt](https://www.linkedin.com/in/ulrich-schmidt-43648b1/)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=rb5oJAZGACk&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=11)
+* **Transkript:** [txt](3-2-schmidt.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
+
 1. Frühe Erfahrungen als "Information Broker" im Studium
 2. Beruflicher Werdegang und Stationen im Wissensmanagement
 3. Erkenntnisse und Lessons Learned aus verschiedenen Unternehmen

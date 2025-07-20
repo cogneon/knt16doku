@@ -4,7 +4,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KB59XK2G9bo?si=DePSfVwNqkQUcRW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Peter Pawlowsky](https://www.linkedin.com/in/univ-prof-dr-peter-pawlowsky-87985648/)
+* **Material:** [Folien](https://cloud.cogneon.de/s/eb6sHHnbpkD4xkQ)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=KB59XK2G9bo&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=7)
+* **Transkript:** [txt](2-3-pawlowsky.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Persönliche Motivation und Ausgangspunkt für die Beschäftigung mit Wissensmanagement
 1. Die Wurzeln des Wissensmanagements in den 1960er-80er Jahren

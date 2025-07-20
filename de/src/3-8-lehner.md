@@ -4,7 +4,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mDUTRCFgac8?si=FB_2sZDYCXmeOuxn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Franz Lehner](https://de.wikipedia.org/wiki/Franz_Lehner_(Wirtschaftsinformatiker))
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=mDUTRCFgac8&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=13)
+* **Transkript:** [txt](3-8-lehner.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Die paradoxe Situation des Wissensmanagements heute
 2. Die entstehende Kluft zwischen Theorie und Praxis

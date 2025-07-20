@@ -4,7 +4,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vpV0sMuoOFI?si=hGEbmn2QJgBjNp9z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Anna Gutzmann](https://www.linkedin.com/in/annagutzmann/), [Gudrun Behm-Steidel](https://www.linkedin.com/in/gudrunbehmsteidel/)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=vpV0sMuoOFI&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=12)
+* **Transkript:** [txt](3-6-gutzmann-behm-steidel.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Entstehung und Konzeption des Studiengangs
 1. Studienorganisation und Zielgruppe

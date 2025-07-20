@@ -4,7 +4,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qHuWC4b1S1M?si=r3DMmjvtec0p8L4O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Paul Seren](https://www.linkedin.com/in/paul-seren-4b327490/)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=qHuWC4b1S1M&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=9)
+* **Transkript:** [txt](3-7-seren.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Digitaler Wandel und seine Auswirkungen auf die Industrie
 2. Herausforderungen in der aktuellen Ausbildungslandschaft

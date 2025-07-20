@@ -1,21 +1,21 @@
 ## Sessions
 
-- Martin Geisenhainer: Wissensmanagement 2.0: Ask the brain - Wie geht Wissensmanagement mit Social Media?
-- Peter Taubmann: ISO 9001 und Wissensmanagement: wie bereitet man das am besten auf?
-- Manuela Schöniger: Aufbau Wissensmanagement-Controlling
-- Ulrich Schmidt: Verschwendungsfaktoren in der Wissensarbeit
-- Karlheinz Pape: Twitter als Lern-Booster? Persönlicher Erfahrungsbericht
-- Burghard Jacobshagen: Welche Rolle spielt Enterprise Search im Wissensmanagement?
-- Anke Wendelken, Carsten Freundl: Sinnvolle Dokumentation in Barcamps?
-- Karsten Ehms: Q&A zum Referat: Professionelles Wissen über Wissensmanagement
-- Simon Dückert: Do-It-Yourself Livestream
-- Harald Schirmer: Flipped Conference
-- Anna Gutzmann: Wissensmanagement lehren: Welche Inhalte sollten wir vermitteln?
-- Simon Dückert: Auf den Schultern von Giganten (109 Paper der KnowTech 1999)
-- Thomas Jenewein: Lernkultur entwickeln: Ansätze, Beispiele?
-- Ulrich Schmidt: 9 Verschwendungsfaktoren im Wissensmanagement: Analyse auf Arbeitsebene
-- Frank Gerich: Wohin gehst du, Wissensmanagement?
-- Frank Edelkraut: Agiles Lernen - Agile Transformation
-- Carsten Freundl: Lernräume: Wie wollen wir lernen?
-- Stefan Diepolder: Digitale Kompetenzen im Unternehmen
-- Peter Taubmann: Wissensmanagement-Audits vs. Wissensbilanzen
+- **Martin Geisenhainer:** Wissensmanagement 2.0: Ask the brain - Wie geht Wissensmanagement mit Social Media?
+- **Peter Taubmann:** ISO 9001 und Wissensmanagement: wie bereitet man das am besten auf?
+- **Manuela Schöniger:** Aufbau Wissensmanagement-Controlling
+- **Ulrich Schmidt:** Verschwendungsfaktoren in der Wissensarbeit
+- **Karlheinz Pape:** Twitter als Lern-Booster? Persönlicher Erfahrungsbericht
+- **Burghard Jacobshagen:** Welche Rolle spielt Enterprise Search im Wissensmanagement?
+- **Anke Wendelken, Carsten Freundl:** Sinnvolle Dokumentation in Barcamps?
+- **Karsten Ehms:** Q&A zum Referat: Professionelles Wissen über Wissensmanagement
+- **Simon Dückert:** Do-It-Yourself Livestream
+- **Harald Schirmer:** Flipped Conference
+- **Anna Gutzmann:** Wissensmanagement lehren: Welche Inhalte sollten wir vermitteln?
+- **Simon Dückert:** Auf den Schultern von Giganten (109 Paper der KnowTech 1999)
+- **Thomas Jenewein:** Lernkultur entwickeln: Ansätze, Beispiele?
+- **Ulrich Schmidt:** 9 Verschwendungsfaktoren im Wissensmanagement: Analyse auf Arbeitsebene
+- **Frank Gerich:** Wohin gehst du, Wissensmanagement?
+- **Frank Edelkraut:** Agiles Lernen - Agile Transformation
+- **Carsten Freundl:** Lernräume: Wie wollen wir lernen?
+- **Stefan Diepolder:** Digitale Kompetenzen im Unternehmen
+- **Peter Taubmann:** Wissensmanagement-Audits vs. Wissensbilanzen

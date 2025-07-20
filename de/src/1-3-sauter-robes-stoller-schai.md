@@ -4,7 +4,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XRkBwGkP8XM?si=q0Lg4aSXgfSU2SIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hauptthemen des Beitrags:
+* **Referent:innen:** [Werner Sauter](https://www.linkedin.com/in/prof-dr-werner-sauter-07202228/), [Jochen Robes](https://www.linkedin.com/in/jrobes/), [Daniel Stoller-Schai](https://www.linkedin.com/in/stollerschai/)
+* **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=XRkBwGkP8XM&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=3)
+* **Transkript:** [txt](1-3-sauter-robes-stoller-schai.txt)
+
+---
+
+**Hauptthemen des Beitrags:**
 
 1. Historische Entwicklung des Corporate Learning (1990er Jahre bis heute)
 2. Aktuelle Herausforderungen und Status Quo in L&D-Abteilungen
