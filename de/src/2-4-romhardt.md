@@ -70,13 +70,10 @@ Die zweijährige Ausbildung im Kloster Plum Village in Frankreich lehrte verschi
 
 Aus der Achtsamkeitspraxis entwickelten sich konkrete Prinzipien für die Wissensarbeit:
 
-**Impulsdistanz**: Bewusste Wahrnehmung des Impulses zu sprechen, ohne automatisch zu reagieren. "Wenn ich es aber mitbekomme, da ist dieser Impuls zu sprechen und ich kann atmen und merken, dieser Impuls kommt, es fällt mir schwer, nichts zu sagen und dann ist er wieder weg."
-
-**Tiefes Zuhören**: Beim Atem bleiben während des Zuhörens, statt gedanklich die eigene Antwort zu formulieren. Dies verhindert das "sich kreisen um uns selber" und ermöglicht echte Verbindung.
-
-**Muße**: Bewusste Phasen ohne Plan oder Ziel, um aus dem ständigen "Umzudenken" herauszukommen. "Diese Muße ist etwas, was eine ganz große Kraft hat, weil sie unserem Tag Atemzeit gibt."
-
-**Achtsamkeit auf Körper und Gedanken**: Bewusstsein für die vier Grundpositionen (stehen, gehen, sitzen, liegen) und für die eigenen Gedanken als Taten mit Wirkung.
+- **Impulsdistanz**: Bewusste Wahrnehmung des Impulses zu sprechen, ohne automatisch zu reagieren. "Wenn ich es aber mitbekomme, da ist dieser Impuls zu sprechen und ich kann atmen und merken, dieser Impuls kommt, es fällt mir schwer, nichts zu sagen und dann ist er wieder weg."
+- **Tiefes Zuhören**: Beim Atem bleiben während des Zuhörens, statt gedanklich die eigene Antwort zu formulieren. Dies verhindert das "sich kreisen um uns selber" und ermöglicht echte Verbindung.
+- **Muße**: Bewusste Phasen ohne Plan oder Ziel, um aus dem ständigen "Umzudenken" herauszukommen. "Diese Muße ist etwas, was eine ganz große Kraft hat, weil sie unserem Tag Atemzeit gibt."
+- **Achtsamkeit auf Körper und Gedanken**: Bewusstsein für die vier Grundpositionen (stehen, gehen, sitzen, liegen) und für die eigenen Gedanken als Taten mit Wirkung.
 
 Das Netzwerk Achtsame Wirtschaft praktiziert diese Prinzipien konsequent: Jedes Treffen beginnt mit Meditation, zwischendrin gibt es "Ali"-Pausen, und Formate wie "Mindful Open Space" werden entwickelt.
 
