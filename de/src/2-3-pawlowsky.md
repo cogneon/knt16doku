@@ -60,7 +60,7 @@ Diese Phase war geprägt durch Technologie, Tools und Bewertungsfragen von Wisse
 
 Geschäftsprozessorientierte Wissensmanagement-Modelle entstanden, bei denen "Wissen als Baustein betrachtet wurde, die man ähnlich einem natürlichen Rohstoff an die relevanten betrieblichen Verarbeitungsstationen transportiert." Dies war "die Geburtsstunde von den Fraunhofer IAOs, IPKs, IBM, Oracle."
 
-Bei VW entstand unter dem Kürzel "WWDEC" (Worldwide Development and Exchange of Corporate Knowledge) eine Vielzahl kreativer Tools:
+Bei VW entstand unter dem Kürzel "ww.deck" (Worldwide Development and Exchange of Corporate Knowledge) eine Vielzahl kreativer Tools:
 
 - Wissenswegweiser
 - Wissensnetzwerke  
@@ -116,7 +116,7 @@ Kritisch merkt er an: "Das Prinzip Teilen bleibt zwar erhalten, jedoch unterlieg
 **Trend 2: Social Innovation und Nachhaltigkeit**
 Parallel zur "technischen Rationalität der Algorithmen" entsteht "eine Kulturanforderung des Teilens durch Vertrauen, durch Collaborative Learning und vor allem durch Ziele der Nachhaltigkeit und der sozialen Innovation."
 
-Beispiele sind Wikipedia, People's Voice Media oder die Kiran University. Selbst das EU-Programm Horizon 2020 fordert "Nachhaltigkeit, geschlechtliche Gleichheit, soziale Innovationen" als "Responsible Research and Innovation."
+Beispiele sind Wikipedia, People's Voice Media oder die Kiron University. Selbst das EU-Programm Horizon 2020 fordert "Nachhaltigkeit, geschlechtliche Gleichheit, soziale Innovationen" als "Responsible Research and Innovation."
 
 ### Fazit
 
