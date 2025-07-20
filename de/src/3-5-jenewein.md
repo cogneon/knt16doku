@@ -38,7 +38,7 @@ Der **SAP Learning Hub** fungiert als zentrale Weiterbildungsplattform nach dem 
 Die Community-Struktur ist systematisch aufgebaut:
 
 - **120 Lern-Communities** sind etabliert, jeweils passend zu einem Curriculum mit SAP-Berater-Zertifizierung
-- Zusätzliche Communities zu Trendthemen wie Design Thinking
+- Zusätzliche **Communities zu Trendthemen** wie Design Thinking
 - **Dual-Betreuung**: Jede Community wird von einem inhaltlichen Moderator (meist Trainer) und einem technischen Administrator betreut
 - **Standardisierte Templates** und regelmäßige Schulungen für Community-Moderatoren
 
@@ -84,6 +84,7 @@ Die qualitative Untersuchung strukturierte sich entlang der beiden Hauptdimensio
 **Moderatoren-Herausforderungen:**
 
 Die Transformation von Klassenraumtrainern zu Community-Moderatoren bringt erhebliche Anpassungen mit sich:
+
 - **Zeitaufwand unterschätzt**: Ursprünglich kalkulierte 30 Minuten täglich reichen nicht aus, besonders bei aktiven Communities mit über 1000 Teilnehmern
 - **Fehlendes unmittelbares Feedback**: Im Gegensatz zum Face-to-Face-Setting erhalten Moderatoren weniger direktes Feedback
 - **Neue Kompetenzanforderungen**: Wissensmoderation statt reiner Wissensvermittlung erfordert andere Fähigkeiten
