@@ -31,15 +31,11 @@ Nach 2004 wurde das zentrale Office aufgelöst und die Verantwortung wieder an d
 
 Aus der Zeit des zentralen Wissensmanagement-Offices sind mehrere Werkzeuge entstanden, die bis heute im Einsatz sind:
 
-**Reifegradmodell und Wissensstrategie-Prozess**: Ein Analyseverfahren, das Organisationen dabei hilft zu bestimmen, welches Wissen überhaupt gemanagt werden soll. Dieser Prozess zeichnet sich durch seine Spezifität aus und unterscheidet sich von allgemeinen Assessments durch seinen Fokus auf die Beschreibung des zu managenden Wissens.
-
-**Community-Support**: Ein umfassendes Unterstützungsangebot für Communities, das über reine Tool-Bedienung hinausging. Es umfasste physische Kick-Off-Treffen, thematische Ausrichtung und Unterstützung sowohl der virtuellen als auch der persönlichen Zusammenarbeit.
-
-**Offene Plattformen seit 2006**: Mit der Einführung der Siemens-Blog-Plattform begann eine neue Ära offener 2.0-Plattformen, die jedem Mitarbeiter ohne aufwendige Genehmigungsprozesse zur Verfügung standen. Dies war ein entscheidender Unterschied zu früheren Jahren, in denen Lizenzfragen und Zugangsbeschränkungen dominierten.
-
-**Urgent Request System**: Ein intelligenter Verteilmechanismus für dringliche Fragen, der getaggte Inhalte auswertet und nur relevante Mitarbeiter kontaktiert. Das System nutzt wilde Tagging-Verfahren ohne strenge Taxonomien und hat sich als sehr effektiv erwiesen.
-
-**Wiki-Plattformen**: Seit 2008 existiert eine offene Wiki-Plattform, die mittlerweile exponentielles Wachstum sowohl bei Nutzern als auch bei Aktivitäten zeigt. Das Prinzip "open by default" hat sich hier besonders bewährt.
+- **Reifegradmodell und Wissensstrategie-Prozess**: Ein Analyseverfahren, das Organisationen dabei hilft zu bestimmen, welches Wissen überhaupt gemanagt werden soll. Dieser Prozess zeichnet sich durch seine Spezifität aus und unterscheidet sich von allgemeinen Assessments durch seinen Fokus auf die Beschreibung des zu managenden Wissens.
+- **Community-Support**: Ein umfassendes Unterstützungsangebot für Communities, das über reine Tool-Bedienung hinausging. Es umfasste physische Kick-Off-Treffen, thematische Ausrichtung und Unterstützung sowohl der virtuellen als auch der persönlichen Zusammenarbeit.
+- **Offene Plattformen seit 2006**: Mit der Einführung der Siemens-Blog-Plattform begann eine neue Ära offener 2.0-Plattformen, die jedem Mitarbeiter ohne aufwendige Genehmigungsprozesse zur Verfügung standen. Dies war ein entscheidender Unterschied zu früheren Jahren, in denen Lizenzfragen und Zugangsbeschränkungen dominierten.
+- **Urgent Request System**: Ein intelligenter Verteilmechanismus für dringliche Fragen, der getaggte Inhalte auswertet und nur relevante Mitarbeiter kontaktiert. Das System nutzt wilde Tagging-Verfahren ohne strenge Taxonomien und hat sich als sehr effektiv erwiesen.
+- **Wiki-Plattformen**: Seit 2008 existiert eine offene Wiki-Plattform, die mittlerweile exponentielles Wachstum sowohl bei Nutzern als auch bei Aktivitäten zeigt. Das Prinzip "open by default" hat sich hier besonders bewährt.
 
 ### Symptome und Ursachen der Schwierigkeiten im Wissensmanagement
 
