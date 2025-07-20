@@ -22,7 +22,7 @@
 
 ### Entstehung und Konzeption des Studiengangs
 
-Der Masterstudiengang Informations- und Wissensmanagement entstand 2005 im Kontext der Bologna-Reform, als die Diplomprogramme auf Bachelor umgestellt werden mussten. Prof. Gudrun Wilmscheidl, damalige Studiendekanin und heutige Koordinatorin des Studiengangs, erkannte die Chance, für bisherige Absolventen eine attraktive Weiterqualifikationsmöglichkeit zu schaffen.
+Der Masterstudiengang Informations- und Wissensmanagement entstand 2005 im Kontext der Bologna-Reform, als die Diplomprogramme auf Bachelor umgestellt werden mussten. Prof. Gudrun Behm-Steidel, damalige Studiendekanin und heutige Koordinatorin des Studiengangs, erkannte die Chance, für bisherige Absolventen eine attraktive Weiterqualifikationsmöglichkeit zu schaffen.
 
 Die Entscheidung für Wissensmanagement als Fachrichtung basierte auf der Beobachtung, dass in diesem Bereich keine größeren Qualifikationsmöglichkeiten existierten, obwohl die Nachfrage vorhanden war. Der Studiengang sollte bewusst über den klassischen Bibliotheks- und Informationsbereich hinausgehen und neue Perspektiven eröffnen.
 
@@ -61,7 +61,7 @@ Diese Struktur ermöglicht es den Studierenden, sich entsprechend ihrer beruflic
 
 ### Lehr- und Prüfungsformen
 
-Die Lehre im Weiterbildungsmaster unterscheidet sich deutlich von traditionellen Studiengängen. Prof. Wilmscheidl berichtet: "Nach der vierten Folie geht es los. Also das sehe ich anders und wie ist meine Erfahrung." Die Studierenden bringen ihre praktischen Erfahrungen aktiv ein, was zu lebendigen Diskussionen und einem intensiven Wissensaustausch führt.
+Die Lehre im Weiterbildungsmaster unterscheidet sich deutlich von traditionellen Studiengängen. Prof. Behm-Steidel berichtet: "Nach der vierten Folie geht es los. Also das sehe ich anders und wie ist meine Erfahrung." Die Studierenden bringen ihre praktischen Erfahrungen aktiv ein, was zu lebendigen Diskussionen und einem intensiven Wissensaustausch führt.
 
 Die Prüfungsformen sind konsequent praxisorientiert gestaltet:
 
@@ -99,13 +99,13 @@ Die neuen Bestimmungen besagen:
 - Hauptamtliche Lehrende dürfen nur noch als Nebentätigkeit unterrichten
 - Hohe Gemeinkostenzuschläge (60-80%) erschweren die Kalkulation
 
-Prof. Wilmscheidl beschreibt die Situation: "Ein Weiterbildungsstudiengang ist wirtschaftliches Handeln der Hochschule, unterliegt der Trennungsrechnung und muss damit ganz gesund rausfallen."
+Prof. Behm-Steidel beschreibt die Situation: "Ein Weiterbildungsstudiengang ist wirtschaftliches Handeln der Hochschule, unterliegt der Trennungsrechnung und muss damit ganz gesund rausfallen."
 
 Trotz erfolgreicher Durchführung und positiver Evaluationen ist die langfristige Fortführung unter diesen Bedingungen fraglich. Der Studiengang umfasst nur 16 Studienplätze alle zwei Jahre, was eine kritische Masse für die Kostendeckung erschwert.
 
 ### Zukunftsperspektiven und strukturelle Probleme
 
-Die Diskussion um die Zukunft des Studiengangs offenbart grundsätzliche Probleme bei der Etablierung innovativer Weiterbildungsformate an staatlichen Hochschulen. Prof. Wilmscheidl plant ihren vorzeitigen Ausstieg, und es findet sich niemand, der die Koordination übernehmen möchte.
+Die Diskussion um die Zukunft des Studiengangs offenbart grundsätzliche Probleme bei der Etablierung innovativer Weiterbildungsformate an staatlichen Hochschulen. Prof. Behm-Steidel plant ihren vorzeitigen Ausstieg, und es findet sich niemand, der die Koordination übernehmen möchte.
 
 Mehrere strukturelle Hindernisse wurden identifiziert:
 
