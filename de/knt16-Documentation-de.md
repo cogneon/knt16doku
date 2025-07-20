@@ -99,20 +99,21 @@ Arbeitsgruppe "Organizational Learning".
 Die intensive zweijährige Arbeit mündete in das Buch
 **"Geschäftsprozesse mit menschlichem Antlitz: Methoden des
 organisationalen Lernens anwenden"**. Im fünften Jahr entwickelte ihre
-Arbeitsgruppe das strategiegeleitete Vorgehensmodell **K2B (Knowledge
+Arbeitsgruppe das strategiegeleitete Vorgehensmodell **K2BE (Knowledge
 Management to Business Excellence)**, das sie später bei Voestalpine zur
 Einführung von Wissensmanagement einsetzte.
 
 Von 2000 bis 2002 führte Mittelmann Wissensmanagement bei Voestalpine
 ein, mit verschiedenen Handlungsfeldern:
 
-- Einführung des Projektmanagement-Leitfadens mit Technikunterstützung
+- Einführung des **Projektmanagement-Leitfadens** mit
+  Technikunterstützung
 - Lessons Learned mit dem ersten europäischen Einsatz von
   **Storytelling**
-- Prozessbeschreibung und High-Level-Prozessbeschreibungstools
+- **Prozessbeschreibung** und High-Level-Prozessbeschreibungstools
 - Know-how-Sicherung durch die **Wissensstaffette**
-- Wissensnetzwerke (heute würde man sie Communities nennen)
-- IT-Architektur für Wissensmanagement
+- **Wissensnetzwerke** (heute würde man sie Communities nennen)
+- **IT-Architektur** für Wissensmanagement
 
 Die **Wissensstaffette** (auch Expert-Debriefing genannt) wurde 2004 von
 VW übernommen und bei Voestalpine weiterentwickelt. Seit 2004 ist dieser
@@ -124,97 +125,88 @@ nicht mehr geredet, sondern es wird getan."
 
 Mittelmann skizziert fünf zentrale Elemente ihres Idealszenarios:
 
-**Freie Bildungsressourcen**: Jede Bürgerin und jeder Bürger hat
-"uneingeschränkten Zugriff auf freie Bildungsressourcen". Eine
-entsprechende Infrastruktur stellt sicher, dass jeder, der will, auch
-kann. Die Ressourcen werden ständig ergänzt, erweitert und überarbeitet.
-
-**Freier Zugang zu Wissen**: Das Internet dient als "Wissensmaschine"
-mit kostenfreiem Zugang für alle. Ausreichende Bildung ermöglicht es
-jedem, Suchabfragen erfolgreich zu gestalten. Freie soziale Plattformen,
-sowohl virtuell als auch face-to-face, ermöglichen Diskussion und
-Austausch unter Gleichgesinnten.
-
-**Mensch-Maschine-Kooperation**: Menschen arbeiten "ganz
-selbstverständlich mit Cybersystemen, also zum Beispiel Robotern
-zusammen" und nutzen das Internet of Things zur Prozessbeschleunigung.
-Die beteiligten Menschen kennen die Grenzen dieser Systeme und setzen
-sie bedarfsgerecht ein. Völlig neue Berufsfelder eröffnen vielen
-Menschen vielfältige Perspektiven.
-
-**Menschengerechte Organisation**: Unternehmen arbeiten "weitgehend auf
-soziokratischer Basis" und verwenden "durchgängig eine soziale
-Technologie auf Basis von Gleichwertigkeit, Transparenz und Feedback".
-Leben und Arbeiten sind nicht mehr getrennte Bereiche, sondern haben
-sich ganzheitlich zusammengefügt.
-
-**Wissensbewusste und innovationsfreudige Gesellschaft**: Staaten,
-Regierungen, Unternehmen und Netzwerke haben einen Entwicklungsstand
-erreicht, "in dem das Wissen aller wertgeschätzt wird, für alle
-Aufgabenstellungen in der Gemeinschaft zum Einsatz kommen und
-Innovationen natürliches Element der gemeinsamen Weiterentwicklung
-sind."
+1.  **Freie Bildungsressourcen**: Jede Bürgerin und jeder Bürger hat
+    "uneingeschränkten Zugriff auf freie Bildungsressourcen". Eine
+    entsprechende Infrastruktur stellt sicher, dass jeder, der will,
+    auch kann. Die Ressourcen werden ständig ergänzt, erweitert und
+    überarbeitet.
+2.  **Freier Zugang zu Wissen**: Das Internet dient als
+    "Wissensmaschine" mit kostenfreiem Zugang für alle. Ausreichende
+    Bildung ermöglicht es jedem, Suchabfragen erfolgreich zu gestalten.
+    Freie soziale Plattformen, sowohl virtuell als auch face-to-face,
+    ermöglichen Diskussion und Austausch unter Gleichgesinnten.
+3.  **Mensch-Maschine-Kooperation**: Menschen arbeiten "ganz
+    selbstverständlich mit Cybersystemen, also zum Beispiel Robotern
+    zusammen" und nutzen das Internet of Things zur
+    Prozessbeschleunigung. Die beteiligten Menschen kennen die Grenzen
+    dieser Systeme und setzen sie bedarfsgerecht ein. Völlig neue
+    Berufsfelder eröffnen vielen Menschen vielfältige Perspektiven.
+4.  **Menschengerechte Organisation**: Unternehmen arbeiten "weitgehend
+    auf soziokratischer Basis" und verwenden "durchgängig eine soziale
+    Technologie auf Basis von Gleichwertigkeit, Transparenz und
+    Feedback". Leben und Arbeiten sind nicht mehr getrennte Bereiche,
+    sondern haben sich ganzheitlich zusammengefügt.
+5.  **Wissensbewusste und innovationsfreudige Gesellschaft**: Staaten,
+    Regierungen, Unternehmen und Netzwerke haben einen Entwicklungsstand
+    erreicht, "in dem das Wissen aller wertgeschätzt wird, für alle
+    Aufgabenstellungen in der Gemeinschaft zum Einsatz kommen und
+    Innovationen natürliches Element der gemeinsamen Weiterentwicklung
+    sind."
 
 ### Horrorszenario gesellschaftlicher Spaltung
 
 Als Gegenpol zum Idealszenario zeichnet Mittelmann ein düsteres Bild
 möglicher Entwicklungen:
 
-**Bildung nur für finanzkräftige Eliten**: Umfassende Bildung nur für
-Wohlhabende würde "den Ausschluss der überwiegenden Mehrheit der
-Bevölkerung bedeuten". Dies ist bereits teilweise Realität, wenn man den
-unterfinanzierten öffentlichen Bildungssektor mit der wachsenden Zahl
-privat finanzierter Schulen und Hochschulen vergleicht.
-
-**Digitale Spaltung**: Ein erheblicher Bevölkerungsanteil hat weder die
-finanziellen noch die technischen Ressourcen für Internetzugang. Hinzu
-kommt der Personenkreis, der "aufgrund fehlender digitaler Bildung nicht
-einmal dazu in der Lage ist", daran teilzunehmen.
-
-**Arbeitslosigkeit durch Digitalisierung**: Laut Untersuchungen der
-Gartner Group werden "circa die Hälfte der derzeitigen Berufe
-verschwinden", weil Cybersysteme ihre Aufgaben besser und effizienter
-ausführen können. Ohne Umschulung droht Arbeitslosigkeit in
-unvorstellbaren Dimensionen.
-
-**Organisationen als Wissensbunker**: Trotz digitaler Vernetzung kann
-Wissen bewusst zurückgehalten werden. Bereits heute werden nicht nur
-Produkte, sondern auch biochemische Systeme wie veränderte Samen durch
-Patente geschützt. Diese Entwicklung könnte sich auf andere Bereiche
-ausweiten.
-
-**Innovationsfeindliche Umwelt**: Wenn Wissen in Bunkern zurückgehalten
-wird, wird es "immer schwieriger, wenn nicht sogar unmöglich,
-Innovationen voranzutreiben" - außer in den geschützten Bereichen der
-Wissensbesitzer.
+1.  **Bildung nur für finanzkräftige Eliten**: Umfassende Bildung nur
+    für Wohlhabende würde "den Ausschluss der überwiegenden Mehrheit der
+    Bevölkerung bedeuten". Dies ist bereits teilweise Realität, wenn man
+    den unterfinanzierten öffentlichen Bildungssektor mit der wachsenden
+    Zahl privat finanzierter Schulen und Hochschulen vergleicht.
+2.  **Digitale Spaltung**: Ein erheblicher Bevölkerungsanteil hat weder
+    die finanziellen noch die technischen Ressourcen für Internetzugang.
+    Hinzu kommt der Personenkreis, der "aufgrund fehlender digitaler
+    Bildung nicht einmal dazu in der Lage ist", daran teilzunehmen.
+3.  **Arbeitslosigkeit durch Digitalisierung**: Laut Untersuchungen der
+    Gartner Group werden "circa die Hälfte der derzeitigen Berufe
+    verschwinden", weil Cybersysteme ihre Aufgaben besser und
+    effizienter ausführen können. Ohne Umschulung droht Arbeitslosigkeit
+    in unvorstellbaren Dimensionen.
+4.  **Organisationen als Wissensbunker**: Trotz digitaler Vernetzung
+    kann Wissen bewusst zurückgehalten werden. Bereits heute werden
+    nicht nur Produkte, sondern auch biochemische Systeme wie veränderte
+    Samen durch Patente geschützt. Diese Entwicklung könnte sich auf
+    andere Bereiche ausweiten.
+5.  **Innovationsfeindliche Umwelt**: Wenn Wissen in Bunkern
+    zurückgehalten wird, wird es "immer schwieriger, wenn nicht sogar
+    unmöglich, Innovationen voranzutreiben" - außer in den geschützten
+    Bereichen der Wissensbesitzer.
 
 ### Erfolgsstrategien für eine lernende Zukunft
 
 Mittelmann identifiziert drei zentrale Erfolgsstrategien:
 
-**Lernen als Grundeinstellung im Bildungssystem verankern**: "Kinder
-sind die neugierigsten und lernhungrigsten Menschen der Welt. Es muss
-uns gelingen, diese Neugier und diesen Hunger nach Wissen bis ins hohe
-Alter am Leben zu erhalten." Dies erfordert eine massive Bildungsreform
-mit reformpädagogischen Ansätzen und Digitalisierung im öffentlichen
-Bildungssystem.
-
-Mittelmann präzisiert: "Ich stelle immer wieder fest, wenn Menschen so
-eine normale Bildung durchlaufen, dann verlieren sie irgendwann einmal
-so die Lust am Lernen. Und das darf nicht passieren." Es geht nicht um
-das Lernen an sich, sondern um das "Lernen wollen" und die fundamentale
-Neugier, etwas Neues erfahren zu wollen.
-
-**Innovationsfreundliche Unternehmenskultur fördern**: Dies erfordert
-"Partizipation und Selbstorganisation als Grundprinzipien in die
-Organisationen zu bringen", um "die innovative Kraft, die der gesamten
-Mitarbeiter zweifelsohne vorhanden ist, freizubekommen". Eine
-soziokratische oder ähnliche Organisationsform soll gefördert werden.
-
-**Klima des sozialen Miteinanders schaffen**: Durch entsprechende
-Initiativen sollen "Bürgerinnen und Bürger regional näher
-zusammengebracht werden", um Vertrauen zu stärken und
-Nachbarschaftshilfe zu gelebter Praxis zu machen.
+1.  **Lernen als Grundeinstellung im Bildungssystem verankern**: "Kinder
+    sind die neugierigsten und lernhungrigsten Menschen der Welt. Es
+    muss uns gelingen, diese Neugier und diesen Hunger nach Wissen bis
+    ins hohe Alter am Leben zu erhalten." Dies erfordert eine massive
+    Bildungsreform mit reformpädagogischen Ansätzen und Digitalisierung
+    im öffentlichen Bildungssystem. Mittelmann präzisiert: "Ich stelle
+    immer wieder fest, wenn Menschen so eine normale Bildung
+    durchlaufen, dann verlieren sie irgendwann einmal so die Lust am
+    Lernen. Und das darf nicht passieren." Es geht nicht um das Lernen
+    an sich, sondern um das "Lernen wollen" und die fundamentale
+    Neugier, etwas Neues erfahren zu wollen.
+2.  **Innovationsfreundliche Unternehmenskultur fördern**: Dies
+    erfordert "Partizipation und Selbstorganisation als Grundprinzipien
+    in die Organisationen zu bringen", um "die innovative Kraft, die der
+    gesamten Mitarbeiter zweifelsohne vorhanden ist, freizubekommen".
+    Eine soziokratische oder ähnliche Organisationsform soll gefördert
+    werden.
+3.  **Klima des sozialen Miteinanders schaffen**: Durch entsprechende
+    Initiativen sollen "Bürgerinnen und Bürger regional näher
+    zusammengebracht werden", um Vertrauen zu stärken und
+    Nachbarschaftshilfe zu gelebter Praxis zu machen.
 
 ### Fazit
 
@@ -299,17 +291,17 @@ Es existieren zwei grundlegend verschiedene Sichtweisen:
   Dave Snowden sehen Wissen als personengebundene Fähigkeit, die nicht
   direkt manageable ist
 
-Larry Prusak formulierte dies treffend: "You cannot manage knowledge
+Larry Prusak formulierte dies treffend: **"You cannot manage knowledge
 like you cannot manage love patriotism or your children, but you can set
-up an environment in which it evolves."
+up an environment in which it evolves."**
 
 ### Historische Entwicklung von Scientific Management bis Cognitive Computing
 
 Schütt zeichnete eine Timeline der Arbeitsplatzoptimierung nach, die
 bereits 1900 mit dem Scientific Management begann. Peter Drucker führte
-1957 mit "Das Fundament von Morgen" den Begriff des Knowledge Workers
-ein, als erstmals Intellektuelle in größerer Zahl in
-Industrieunternehmen arbeiteten.
+1957 mit "Landmarks of Tomorrow" den Begriff des Knowledge Workers ein,
+als erstmals Intellektuelle in größerer Zahl in Industrieunternehmen
+arbeiteten.
 
 Die Entwicklung verlief über mehrere Phasen:
 
@@ -363,8 +355,8 @@ Web 2.0 und Social Business brachten einen Paradigmenwechsel:
 - Kontrolle beim Leser statt beim Autor
 - Explosion der verfügbaren Informationen
 
-Diese Entwicklung führte jedoch zu neuen Herausforderungen: "Wir
-ertrinken in Informationen, aber uns dürstet nach Wissen" (John
+Diese Entwicklung führte jedoch zu neuen Herausforderungen: **"Wir
+ertrinken in Informationen, aber uns dürstet nach Wissen"** (John
 Naisbitt). Der Heuhaufen wurde riesig, aber die Nadel ist immer noch
 schwer zu finden.
 
@@ -569,25 +561,22 @@ oder anderen Dingen umgehen können."
 In der abschließenden Runde identifizierten die Experten mehrere
 wichtige Zukunftstrends:
 
-**Soziales und kollaboratives Lernen**: Daniel Stoller-Schai sah hier
-noch großes ungenutztes Potenzial und betonte die Bedeutung von
-Recommendation Bots und personalisiertem, adaptivem Lernen.
-
-**Verschmelzung von Lernen und Arbeiten**: Werner Sauter schlug vor, den
-Begriff "Lernen" möglicherweise ganz aufzugeben, da er zu sehr mit
-fremdgesteuerten Lernroutinen verbunden sei. Er prognostizierte den
-Einsatz humanoider Computer, die nicht nur recherchieren und
-analysieren, sondern auch emotionale Aspekte bei Entscheidungen
-berücksichtigen können.
-
-**Neue Technologien und ethische Fragen**: Jochen Robes wies darauf hin,
-dass zukünftige Empfehlungssysteme von großen Plattformen wie Facebook,
-LinkedIn oder Google betrieben werden könnten, was neue ethische Fragen
-aufwerfe.
-
-**Trennung von Compliance und Innovation**: Ein diskutierter Ansatz war
-die Aufteilung der Weiterbildung in Compliance-Kurse einerseits und
-innovative, arbeitsplatznahe Lernformen andererseits.
+1.  **Soziales und kollaboratives Lernen**: Daniel Stoller-Schai sah
+    hier noch großes ungenutztes Potenzial und betonte die Bedeutung von
+    Recommendation Bots und personalisiertem, adaptivem Lernen.
+2.  **Verschmelzung von Lernen und Arbeiten**: Werner Sauter schlug vor,
+    den Begriff "Lernen" möglicherweise ganz aufzugeben, da er zu sehr
+    mit fremdgesteuerten Lernroutinen verbunden sei. Er prognostizierte
+    den Einsatz humanoider Computer, die nicht nur recherchieren und
+    analysieren, sondern auch emotionale Aspekte bei Entscheidungen
+    berücksichtigen können.
+3.  **Neue Technologien und ethische Fragen**: Jochen Robes wies darauf
+    hin, dass zukünftige Empfehlungssysteme von großen Plattformen wie
+    Facebook, LinkedIn oder Google betrieben werden könnten, was neue
+    ethische Fragen aufwerfe.
+4.  **Trennung von Compliance und Innovation**: Ein diskutierter Ansatz
+    war die Aufteilung der Weiterbildung in Compliance-Kurse einerseits
+    und innovative, arbeitsplatznahe Lernformen andererseits.
 
 ### Fazit
 
@@ -683,7 +672,7 @@ Wissensmanagements heraus. Eine Umfrage unter fast 400 Wissensmanagern
 weltweit identifizierte die populärsten Elemente:
 
 - Vernetzung von Menschen durch Netzwerke (Communities of Practice)
-- Lernen aus Erfahrungen (Lesson Learning)
+- Lernen aus Erfahrungen (Lessons Learned)
 - Zugang zu Dokumenten
 - Wissensbewahrung (Knowledge Retention)
 - Best Practices
@@ -746,7 +735,7 @@ governance" nur 30.000 - weniger als 10% der Prozess-Treffer.
 
 - Wir wissen, was KM ist - als eigenständige Disziplin, fokussiert auf
   Wissen
-- Wir verstehen es als Managementframework, nicht als Technologie
+- Wir verstehen es als Management-Framework, nicht als Technologie
 - Klare Abgrenzung zu verwandten Disziplinen trotz Überschneidungen
 - 70% Erfolgsrate statt 70% Misserfolgsrate
 
@@ -779,7 +768,7 @@ Milton zeichnet ein differenziertes Bild des Wissensmanagements nach 20
 Jahren Entwicklung. Trotz anhaltender Verwirrungen und wiederkehrender
 Fehler kristallisiert sich ein Kern der Disziplin heraus. Der
 entscheidende Paradigmenwechsel liegt im Verständnis von
-Wissensmanagement als ganzheitlichem Managementframework statt als
+Wissensmanagement als ganzheitlichem Management-Framework statt als
 Sammlung von Tools oder Technologien.
 
 **Offene Fragen und Herausforderungen:**
@@ -938,11 +927,13 @@ jeden Organisationsprozess zu integrieren - von der Gebäudeplanung bis
 zu Arbeitsplätzen der Zukunft. Die ISO 9001 bietet seiner Meinung nach
 eine gute Ausgangsbasis für ein solches Framework.
 
-**Zentrale Elemente eines Wissensmanagement-Frameworks:** - Purpose der
-Organisation und strategische Ziele - Balance zwischen Hierarchie und
-Netzwerk - Mensch im Mittelpunkt mit multiplen Rollen -
-Prozessmanagement mit kommunikativer Hülle - Lernförderliche
-Arbeitsumgebung (kulturell, digital, physisch)
+**Zentrale Elemente eines Wissensmanagement-Frameworks:**
+
+- Purpose der Organisation und strategische Ziele
+- Balance zwischen Hierarchie und Netzwerk
+- Mensch im Mittelpunkt mit multiplen Rollen
+- Prozessmanagement mit kommunikativer Hülle
+- Lernförderliche Arbeitsumgebung (kulturell, digital, physisch)
 
 **Konkrete Anforderungen:** Über abstrakte Modelle hinaus braucht es
 klare Definitionen von Prozessen, Technologien, Governance-Strukturen
@@ -1043,15 +1034,14 @@ Organisationen produzieren durch ihre Strukturbildung automatisch blinde
 Flecken - dies ist unvermeidlich und funktional notwendig. Kühl
 unterscheidet zwei Typen von Entscheidungen:
 
-**Entscheidungen über Strukturen:** Hier setzen klassische Reflexe des
-Wissensmanagements ein - Strategieprojekte und Change-Management fördern
-Organisationslernen und Wissensverarbeitung.
-
-**Entscheidungen im Rahmen bestehender Strukturen:** Diese werden
-weniger betrachtet, obwohl sie den Organisationsalltag prägen.
-Hierarchische Entscheidungen und etablierte Programme dürfen in der
-Regel nicht grundsätzlich in Frage gestellt werden, da sonst die
-Funktionsfähigkeit der Organisation gefährdet wäre.
+1.  **Entscheidungen über Strukturen:** Hier setzen klassische Reflexe
+    des Wissensmanagements ein - Strategieprojekte und Change-Management
+    fördern Organisationslernen und Wissensverarbeitung.
+2.  **Entscheidungen im Rahmen bestehender Strukturen:** Diese werden
+    weniger betrachtet, obwohl sie den Organisationsalltag prägen.
+    Hierarchische Entscheidungen und etablierte Programme dürfen in der
+    Regel nicht grundsätzlich in Frage gestellt werden, da sonst die
+    Funktionsfähigkeit der Organisation gefährdet wäre.
 
 Dieser Strukturschutz führt zu selbstverstärkenden Effekten: Starre
 Strukturen filtern Umweltinformationen, was die Organisation in ihren
@@ -1060,7 +1050,7 @@ Historische Beispiele wie Faceit AB (mechanische Rechenmaschinen) oder
 IBM (Großrechner statt PCs) zeigen, wie strukturbedingte blinde Flecken
 zu strategischen Fehlentscheidungen führen können.
 
-Kühl stellt die Hypothese auf, dass die "lämmigartige" Reaktion des
+Kühl stellt die Hypothese auf, dass die "lemmigartige" Reaktion des
 Managements auf Buzzwords wie "Big Data" oder "Industrie 4.0" eine
 Panikreaktion auf die Erkenntnis strukturbedingter blinder Flecken
 darstellen könnte.
@@ -1104,12 +1094,15 @@ von Mitarbeitern wussten Bescheid, aber ein IT-gestütztes System hätte
 diese Informationen vermutlich nicht verarbeiten können.
 
 Seine Beobachtungen aus der Beratungspraxis zeigen alternative
-Mechanismen: - Workshops mit drei Hierarchiestufen aktivieren
-automatisch Zensurmechanismen (zwei Stufen sind noch möglich) -
-Kritische Informationen werden oft in Vor- und Nachbereitungsgesprächen
-zu Workshops verarbeitet, nicht in den Workshops selbst -
-Face-to-Face-Interaktionen ermöglichen bessere Tabu-Bearbeitung als
-transparente IT-Systeme
+Mechanismen:
+
+- Workshops mit drei Hierarchiestufen aktivieren automatisch
+  Zensurmechanismen (zwei Stufen sind noch möglich)
+- Kritische Informationen werden oft in Vor- und
+  Nachbereitungsgesprächen zu Workshops verarbeitet, nicht in den
+  Workshops selbst
+- Face-to-Face-Interaktionen ermöglichen bessere Tabu-Bearbeitung als
+  transparente IT-Systeme
 
 Kühl plädiert für "low-tech" Ansätze: kleine Gespräche mit wenig
 Dokumentation, um Informationen geschützt zu kondensieren und dann
@@ -1279,7 +1272,7 @@ natürlichen Rohstoff an die relevanten betrieblichen
 Verarbeitungsstationen transportiert." Dies war "die Geburtsstunde von
 den Fraunhofer IAOs, IPKs, IBM, Oracle."
 
-Bei VW entstand unter dem Kürzel "WWDEC" (Worldwide Development and
+Bei VW entstand unter dem Kürzel "ww.deck" (Worldwide Development and
 Exchange of Corporate Knowledge) eine Vielzahl kreativer Tools:
 
 - Wissenswegweiser
@@ -1377,7 +1370,7 @@ Kulturanforderung des Teilens durch Vertrauen, durch Collaborative
 Learning und vor allem durch Ziele der Nachhaltigkeit und der sozialen
 Innovation."
 
-Beispiele sind Wikipedia, People's Voice Media oder die Kiran
+Beispiele sind Wikipedia, People's Voice Media oder die Kiron
 University. Selbst das EU-Programm Horizon 2020 fordert "Nachhaltigkeit,
 geschlechtliche Gleichheit, soziale Innovationen" als "Responsible
 Research and Innovation."
@@ -1533,22 +1526,19 @@ ist und wie ein wilder Affe hin und her springt."
 Aus der Achtsamkeitspraxis entwickelten sich konkrete Prinzipien für die
 Wissensarbeit:
 
-**Impulsdistanz**: Bewusste Wahrnehmung des Impulses zu sprechen, ohne
-automatisch zu reagieren. "Wenn ich es aber mitbekomme, da ist dieser
-Impuls zu sprechen und ich kann atmen und merken, dieser Impuls kommt,
-es fällt mir schwer, nichts zu sagen und dann ist er wieder weg."
-
-**Tiefes Zuhören**: Beim Atem bleiben während des Zuhörens, statt
-gedanklich die eigene Antwort zu formulieren. Dies verhindert das "sich
-kreisen um uns selber" und ermöglicht echte Verbindung.
-
-**Muße**: Bewusste Phasen ohne Plan oder Ziel, um aus dem ständigen
-"Umzudenken" herauszukommen. "Diese Muße ist etwas, was eine ganz große
-Kraft hat, weil sie unserem Tag Atemzeit gibt."
-
-**Achtsamkeit auf Körper und Gedanken**: Bewusstsein für die vier
-Grundpositionen (stehen, gehen, sitzen, liegen) und für die eigenen
-Gedanken als Taten mit Wirkung.
+- **Impulsdistanz**: Bewusste Wahrnehmung des Impulses zu sprechen, ohne
+  automatisch zu reagieren. "Wenn ich es aber mitbekomme, da ist dieser
+  Impuls zu sprechen und ich kann atmen und merken, dieser Impuls kommt,
+  es fällt mir schwer, nichts zu sagen und dann ist er wieder weg."
+- **Tiefes Zuhören**: Beim Atem bleiben während des Zuhörens, statt
+  gedanklich die eigene Antwort zu formulieren. Dies verhindert das
+  "sich kreisen um uns selber" und ermöglicht echte Verbindung.
+- **Muße**: Bewusste Phasen ohne Plan oder Ziel, um aus dem ständigen
+  "Umzudenken" herauszukommen. "Diese Muße ist etwas, was eine ganz
+  große Kraft hat, weil sie unserem Tag Atemzeit gibt."
+- **Achtsamkeit auf Körper und Gedanken**: Bewusstsein für die vier
+  Grundpositionen (stehen, gehen, sitzen, liegen) und für die eigenen
+  Gedanken als Taten mit Wirkung.
 
 Das Netzwerk Achtsame Wirtschaft praktiziert diese Prinzipien
 konsequent: Jedes Treffen beginnt mit Meditation, zwischendrin gibt es
@@ -1673,32 +1663,29 @@ Finanzierung und Kommunikationskampagnen.
 Aus der Zeit des zentralen Wissensmanagement-Offices sind mehrere
 Werkzeuge entstanden, die bis heute im Einsatz sind:
 
-**Reifegradmodell und Wissensstrategie-Prozess**: Ein Analyseverfahren,
-das Organisationen dabei hilft zu bestimmen, welches Wissen überhaupt
-gemanagt werden soll. Dieser Prozess zeichnet sich durch seine
-Spezifität aus und unterscheidet sich von allgemeinen Assessments durch
-seinen Fokus auf die Beschreibung des zu managenden Wissens.
-
-**Community-Support**: Ein umfassendes Unterstützungsangebot für
-Communities, das über reine Tool-Bedienung hinausging. Es umfasste
-physische Kick-Off-Treffen, thematische Ausrichtung und Unterstützung
-sowohl der virtuellen als auch der persönlichen Zusammenarbeit.
-
-**Offene Plattformen seit 2006**: Mit der Einführung der
-Siemens-Blog-Plattform begann eine neue Ära offener 2.0-Plattformen, die
-jedem Mitarbeiter ohne aufwendige Genehmigungsprozesse zur Verfügung
-standen. Dies war ein entscheidender Unterschied zu früheren Jahren, in
-denen Lizenzfragen und Zugangsbeschränkungen dominierten.
-
-**Urgent Request System**: Ein intelligenter Verteilmechanismus für
-dringliche Fragen, der getaggte Inhalte auswertet und nur relevante
-Mitarbeiter kontaktiert. Das System nutzt wilde Tagging-Verfahren ohne
-strenge Taxonomien und hat sich als sehr effektiv erwiesen.
-
-**Wiki-Plattformen**: Seit 2008 existiert eine offene Wiki-Plattform,
-die mittlerweile exponentielles Wachstum sowohl bei Nutzern als auch bei
-Aktivitäten zeigt. Das Prinzip "open by default" hat sich hier besonders
-bewährt.
+- **Reifegradmodell und Wissensstrategie-Prozess**: Ein
+  Analyseverfahren, das Organisationen dabei hilft zu bestimmen, welches
+  Wissen überhaupt gemanagt werden soll. Dieser Prozess zeichnet sich
+  durch seine Spezifität aus und unterscheidet sich von allgemeinen
+  Assessments durch seinen Fokus auf die Beschreibung des zu managenden
+  Wissens.
+- **Community-Support**: Ein umfassendes Unterstützungsangebot für
+  Communities, das über reine Tool-Bedienung hinausging. Es umfasste
+  physische Kick-Off-Treffen, thematische Ausrichtung und Unterstützung
+  sowohl der virtuellen als auch der persönlichen Zusammenarbeit.
+- **Offene Plattformen seit 2006**: Mit der Einführung der
+  Siemens-Blog-Plattform begann eine neue Ära offener 2.0-Plattformen,
+  die jedem Mitarbeiter ohne aufwendige Genehmigungsprozesse zur
+  Verfügung standen. Dies war ein entscheidender Unterschied zu früheren
+  Jahren, in denen Lizenzfragen und Zugangsbeschränkungen dominierten.
+- **Urgent Request System**: Ein intelligenter Verteilmechanismus für
+  dringliche Fragen, der getaggte Inhalte auswertet und nur relevante
+  Mitarbeiter kontaktiert. Das System nutzt wilde Tagging-Verfahren ohne
+  strenge Taxonomien und hat sich als sehr effektiv erwiesen.
+- **Wiki-Plattformen**: Seit 2008 existiert eine offene Wiki-Plattform,
+  die mittlerweile exponentielles Wachstum sowohl bei Nutzern als auch
+  bei Aktivitäten zeigt. Das Prinzip "open by default" hat sich hier
+  besonders bewährt.
 
 ### Symptome und Ursachen der Schwierigkeiten im Wissensmanagement
 
@@ -1951,20 +1938,24 @@ Aus seinen Erfahrungen entwickelte Schmidt verschiedene Grundprinzipien:
 
 #### Zielgruppenspezifische Lösungen
 
-Schmidt unterscheidet zwischen verschiedenen Graden der Wissensarbeit: -
-**Wissensarbeit** (z.B. Ingenieure) - **Wissensintensive Arbeit** -
-**Wissensbasierte Arbeit** (einfachste Stufe)
+Schmidt unterscheidet zwischen verschiedenen Graden der Wissensarbeit:
+
+- **Wissensarbeit** (z.B. Ingenieure)
+- **Wissensintensive Arbeit**
+- **Wissensbasierte Arbeit** (einfachste Stufe)
 
 Lösungen müssen entsprechend angepasst werden, da eine Lösung, die für
 Ingenieure funktioniert, für andere Zielgruppen ungeeignet sein kann.
 
 #### Kommunikation anpassen
 
-Schmidt entwickelte eine Analogie zum Autofahren: -
-**Autokonstrukteure**: Wissensmanagement-Experten, die tiefes
-technisches Verständnis haben - **Automechaniker**: Knowledge Management
-Facilitatoren als Vermittler - **Autofahrer**: Nutzer von
-Wissensmanagement, die einfach nur fahren wollen
+Schmidt entwickelte eine Analogie zum Autofahren:
+
+- **Autokonstrukteure**: Wissensmanagement-Experten, die tiefes
+  technisches Verständnis haben
+- **Automechaniker**: Knowledge Management Facilitatoren als Vermittler
+- **Autofahrer**: Nutzer von Wissensmanagement, die einfach nur fahren
+  wollen
 
 Je nach Zielgruppe muss die Kommunikation angepasst werden. Schmidt
 bietet inzwischen drei verschiedene Vorträge für Hochschulen an, je
@@ -2027,23 +2018,34 @@ Wissensmanagements über drei Jahrzehnte aus der Perspektive eines
 Praktikers. Seine wichtigsten Erkenntnisse lassen sich wie folgt
 zusammenfassen:
 
-**Kritische Erfolgsfaktoren:** - Unabhängigkeit vom Wohlwollen einzelner
-Personen durch institutionelle Verankerung - Zielgruppenspezifische
-Lösungen statt "One-Size-Fits-All"-Ansätze - Integration in bestehende
-Prozesse und Strukturen - Angepasste Kommunikation je nach Zielgruppe -
-Berücksichtigung branchenspezifischer Besonderheiten
+**Kritische Erfolgsfaktoren:**
 
-**Zentrale Herausforderungen:** - Unternehmenskultur als entscheidender
-Faktor für Erfolg oder Misserfolg - Notwendigkeit tiefer Fachkenntnis
-für effektives Wissensmanagement in Spezialbereichen - Balance zwischen
-schneller Implementierung und nachhaltiger Verankerung
+- Unabhängigkeit vom Wohlwollen einzelner Personen durch institutionelle
+  Verankerung
+- Zielgruppenspezifische Lösungen statt "One-Size-Fits-All"-Ansätze
+- Integration in bestehende Prozesse und Strukturen
+- Angepasste Kommunikation je nach Zielgruppe
+- Berücksichtigung branchenspezifischer Besonderheiten
 
-**Handlungsempfehlungen:** - Wissensbilanz Made in Germany professionell
-durchführen lassen, um Handlungsfelder zu identifizieren - Physische
-Zusammenkünfte und Dialogformate als zentrale Instrumente nutzen -
-Verschwendungsarten bei Wissensarbeit systematisch analysieren und
-reduzieren - Kontinuierliche Reflexion und Anpassung der
-Wissensmanagement-Strategien
+**Zentrale Herausforderungen:**
+
+- Unternehmenskultur als entscheidender Faktor für Erfolg oder
+  Misserfolg
+- Notwendigkeit tiefer Fachkenntnis für effektives Wissensmanagement in
+  Spezialbereichen
+- Balance zwischen schneller Implementierung und nachhaltiger
+  Verankerung
+
+**Handlungsempfehlungen:**
+
+- Wissensbilanz Made in Germany professionell durchführen lassen, um
+  Handlungsfelder zu identifizieren
+- Physische Zusammenkünfte und Dialogformate als zentrale Instrumente
+  nutzen
+- Verschwendungsarten bei Wissensarbeit systematisch analysieren und
+  reduzieren
+- Kontinuierliche Reflexion und Anpassung der
+  Wissensmanagement-Strategien
 
 Schmidt schließt mit dem Hinweis auf sein "Wanderbuch" - eine Metapher
 für die kontinuierliche Reflexion und das Lernen, das für erfolgreiche
@@ -2418,14 +2420,16 @@ Weiterbildung. Traditionell bedeutete Weiterbildung bei der EnBW "zu 90,
 in manchen Bereichen über 90 Prozent Präsenzveranstaltungen". Dieser
 Ansatz galt als nicht mehr zukunftsfähig.
 
-Vier Arbeitsbereiche wurden definiert: - **Neue Lernmedien**:
-Verstärkter Einsatz von Videos und Web-based Trainings als Ergänzung zu
-klassischen Formaten - **Lernorte**: Schaffung von Rückzugsmöglichkeiten
-abseits des normalen Arbeitsplatzes für digitales Lernen - **PE
-Campus**: Eine digitale Plattform als zentraler Einstiegspunkt für alle
-Weiterbildungsangebote im Konzern - **Informelles Lernen**:
-Beschreibungen und Anleitungen für Formate wie Barcamps und neue
-Workshop-Methoden
+Vier Arbeitsbereiche wurden definiert:
+
+- **Neue Lernmedien**: Verstärkter Einsatz von Videos und Web-based
+  Trainings als Ergänzung zu klassischen Formaten
+- **Lernorte**: Schaffung von Rückzugsmöglichkeiten abseits des normalen
+  Arbeitsplatzes für digitales Lernen
+- **PE Campus**: Eine digitale Plattform als zentraler Einstiegspunkt
+  für alle Weiterbildungsangebote im Konzern
+- **Informelles Lernen**: Beschreibungen und Anleitungen für Formate wie
+  Barcamps und neue Workshop-Methoden
 
 Die Mitarbeiter erhalten "zusätzliche Lernmedien" ohne explizite
 Erwähnung von Fachbegrffen wie "Blended Learning" oder dem "70-20-10
@@ -2515,7 +2519,7 @@ kulturelle und organisatorische Hürden mit sich bringt.**
   Jenewein](https://www.linkedin.com/in/thomasjenewein/)
 - **Aufzeichnung:**
   [Video](https://www.youtube.com/watch?v=cAGgUaGXo1o&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=14)
-- **Transkript:** [txt](3-5-jeneweing.txt)
+- **Transkript:** [txt](3-5-jenewein.txt)
 
 ------------------------------------------------------------------------
 
@@ -2564,7 +2568,7 @@ Die Community-Struktur ist systematisch aufgebaut:
 
 - **120 Lern-Communities** sind etabliert, jeweils passend zu einem
   Curriculum mit SAP-Berater-Zertifizierung
-- Zusätzliche Communities zu Trendthemen wie Design Thinking
+- Zusätzliche **Communities zu Trendthemen** wie Design Thinking
 - **Dual-Betreuung**: Jede Community wird von einem inhaltlichen
   Moderator (meist Trainer) und einem technischen Administrator betreut
 - **Standardisierte Templates** und regelmäßige Schulungen für
@@ -2622,14 +2626,17 @@ sowohl die Perspektive der Lerner als auch der Moderatoren.
 **Moderatoren-Herausforderungen:**
 
 Die Transformation von Klassenraumtrainern zu Community-Moderatoren
-bringt erhebliche Anpassungen mit sich: - **Zeitaufwand unterschätzt**:
-Ursprünglich kalkulierte 30 Minuten täglich reichen nicht aus, besonders
-bei aktiven Communities mit über 1000 Teilnehmern - **Fehlendes
-unmittelbares Feedback**: Im Gegensatz zum Face-to-Face-Setting erhalten
-Moderatoren weniger direktes Feedback - **Neue Kompetenzanforderungen**:
-Wissensmoderation statt reiner Wissensvermittlung erfordert andere
-Fähigkeiten - **Demotivation durch geringe Beteiligung**: Viele
-Moderatoren sind frustriert, wenn ihre Beiträge wenig Resonanz finden
+bringt erhebliche Anpassungen mit sich:
+
+- **Zeitaufwand unterschätzt**: Ursprünglich kalkulierte 30 Minuten
+  täglich reichen nicht aus, besonders bei aktiven Communities mit über
+  1000 Teilnehmern
+- **Fehlendes unmittelbares Feedback**: Im Gegensatz zum
+  Face-to-Face-Setting erhalten Moderatoren weniger direktes Feedback
+- **Neue Kompetenzanforderungen**: Wissensmoderation statt reiner
+  Wissensvermittlung erfordert andere Fähigkeiten
+- **Demotivation durch geringe Beteiligung**: Viele Moderatoren sind
+  frustriert, wenn ihre Beiträge wenig Resonanz finden
 
 **Lerner-Herausforderungen:**
 
@@ -2730,7 +2737,7 @@ strukturellen Herausforderungen bezüglich seiner Zukunftsfähigkeit.**
 
 Der Masterstudiengang Informations- und Wissensmanagement entstand 2005
 im Kontext der Bologna-Reform, als die Diplomprogramme auf Bachelor
-umgestellt werden mussten. Prof. Gudrun Wilmscheidl, damalige
+umgestellt werden mussten. Prof. Gudrun Behm-Steidel, damalige
 Studiendekanin und heutige Koordinatorin des Studiengangs, erkannte die
 Chance, für bisherige Absolventen eine attraktive
 Weiterqualifikationsmöglichkeit zu schaffen.
@@ -2802,7 +2809,7 @@ Perspektiven.
 ### Lehr- und Prüfungsformen
 
 Die Lehre im Weiterbildungsmaster unterscheidet sich deutlich von
-traditionellen Studiengängen. Prof. Wilmscheidl berichtet: "Nach der
+traditionellen Studiengängen. Prof. Behm-Steidel berichtet: "Nach der
 vierten Folie geht es los. Also das sehe ich anders und wie ist meine
 Erfahrung." Die Studierenden bringen ihre praktischen Erfahrungen aktiv
 ein, was zu lebendigen Diskussionen und einem intensiven
@@ -2864,7 +2871,7 @@ Die neuen Bestimmungen besagen:
 - Hauptamtliche Lehrende dürfen nur noch als Nebentätigkeit unterrichten
 - Hohe Gemeinkostenzuschläge (60-80%) erschweren die Kalkulation
 
-Prof. Wilmscheidl beschreibt die Situation: "Ein
+Prof. Behm-Steidel beschreibt die Situation: "Ein
 Weiterbildungsstudiengang ist wirtschaftliches Handeln der Hochschule,
 unterliegt der Trennungsrechnung und muss damit ganz gesund rausfallen."
 
@@ -2877,7 +2884,7 @@ kritische Masse für die Kostendeckung erschwert.
 
 Die Diskussion um die Zukunft des Studiengangs offenbart grundsätzliche
 Probleme bei der Etablierung innovativer Weiterbildungsformate an
-staatlichen Hochschulen. Prof. Wilmscheidl plant ihren vorzeitigen
+staatlichen Hochschulen. Prof. Behm-Steidel plant ihren vorzeitigen
 Ausstieg, und es findet sich niemand, der die Koordination übernehmen
 möchte.
 
@@ -2936,7 +2943,7 @@ Ausbildungsformate verloren gehen.
 
 **Ausgehend von der digitalen Transformation und den Erfahrungen bei
 Schaeffler zeigt dieser Vortrag auf, wie sich die Ausbildung von
-Fachkräften grundlegend wandeln muss. Der Referent beleuchtet die
+Fachkräften grundlegend wandeln muss. Paul Seren beleuchtet die
 Herausforderungen zwischen traditionellen Ausbildungsmethoden und den
 Anforderungen einer vernetzten, digitalisierten Arbeitswelt und stellt
 konkrete Ansätze für eine zukunftsorientierte Ausbildungsgestaltung
@@ -3289,7 +3296,7 @@ Disziplin leidet unter:
 - Wie kann eine zentrale Autorität für Standards im Wissensmanagement
   etabliert werden?
 - Welche Rolle sollten bestehende Organisationen wie die Gesellschaft
-  für Wissensmanagement dabei spielen?
+  für Wissensmanagement (GfWM) dabei spielen?
 - Wie lässt sich die Balance zwischen Innovation und Stabilität in der
   Disziplinentwicklung finden?
 

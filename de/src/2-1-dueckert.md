@@ -1,4 +1,4 @@
-## Lernende Organisationen - State of the Union: 20 Jahre Wissensmanagement
+## Lernende Organisationen - State of the Union - 20 Jahre Wissensmanagement
 
 **Simon Dückert reflektiert in seinem Vortrag die Entwicklung des Wissensmanagements der letzten 20 Jahre und zeigt auf, dass das Thema nicht am Ende, sondern erst am Anfang einer exponentiellen Entwicklung steht. Er argumentiert für einen Wandel von einzelnen Tools hin zu organisationsweiten Frameworks und betont die Bedeutung der digital vernetzten Wissensgesellschaft für die Zukunft.**
 

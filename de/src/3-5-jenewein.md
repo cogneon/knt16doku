@@ -6,7 +6,7 @@
 
 * **Referent:innen:** [Thomas Jenewein](https://www.linkedin.com/in/thomasjenewein/)
 * **Aufzeichnung:** [Video](https://www.youtube.com/watch?v=cAGgUaGXo1o&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=14)
-* **Transkript:** [txt](3-5-jeneweing.txt)
+* **Transkript:** [txt](3-5-jenewein.txt)
 
 ---
 
