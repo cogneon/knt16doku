@@ -84,7 +84,7 @@ Franz Lehner zeichnet ein ernüchterndes Bild des aktuellen Zustands des Wissens
 **Offene Fragen:**
 
 - Wie kann eine zentrale Autorität für Standards im Wissensmanagement etabliert werden?
-- Welche Rolle sollten bestehende Organisationen wie die Gesellschaft für Wissensmanagement dabei spielen?
+- Welche Rolle sollten bestehende Organisationen wie die Gesellschaft für Wissensmanagement (GfWM) dabei spielen?
 - Wie lässt sich die Balance zwischen Innovation und Stabilität in der Disziplinentwicklung finden?
 
 **Handlungsempfehlungen:**
