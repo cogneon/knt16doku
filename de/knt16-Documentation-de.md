@@ -791,7 +791,7 @@ Sammlung von Tools oder Technologien.
 
 # Keynotes
 
-## Lernende Organisationen - State of the Union: 20 Jahre Wissensmanagement
+## Lernende Organisationen - State of the Union - 20 Jahre Wissensmanagement
 
 **Simon Dückert reflektiert in seinem Vortrag die Entwicklung des
 Wissensmanagements der letzten 20 Jahre und zeigt auf, dass das Thema
