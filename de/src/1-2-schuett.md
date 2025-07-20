@@ -28,11 +28,11 @@ Es existieren zwei grundlegend verschiedene Sichtweisen:
 - **Systemische Schule**: Vertreter wie Gilbert Probst und Klaus North verstehen Wissensmanagement als prozessorientiertes Datenmanagement mit hierarchischen Strukturen und Top-Down-Training
 - **Komplexitätsschule**: Vertreter wie Peter Drucker, Larry Prusak und Dave Snowden sehen Wissen als personengebundene Fähigkeit, die nicht direkt manageable ist
 
-Larry Prusak formulierte dies treffend: "You cannot manage knowledge like you cannot manage love patriotism or your children, but you can set up an environment in which it evolves."
+Larry Prusak formulierte dies treffend: **"You cannot manage knowledge like you cannot manage love patriotism or your children, but you can set up an environment in which it evolves."**
 
 ### Historische Entwicklung von Scientific Management bis Cognitive Computing
 
-Schütt zeichnete eine Timeline der Arbeitsplatzoptimierung nach, die bereits 1900 mit dem Scientific Management begann. Peter Drucker führte 1957 mit "Das Fundament von Morgen" den Begriff des Knowledge Workers ein, als erstmals Intellektuelle in größerer Zahl in Industrieunternehmen arbeiteten.
+Schütt zeichnete eine Timeline der Arbeitsplatzoptimierung nach, die bereits 1900 mit dem Scientific Management begann. Peter Drucker führte 1957 mit "Landmarks of Tomorrow" den Begriff des Knowledge Workers ein, als erstmals Intellektuelle in größerer Zahl in Industrieunternehmen arbeiteten.
 
 Die Entwicklung verlief über mehrere Phasen:
 
@@ -67,7 +67,7 @@ Web 2.0 und Social Business brachten einen Paradigmenwechsel:
 - Kontrolle beim Leser statt beim Autor
 - Explosion der verfügbaren Informationen
 
-Diese Entwicklung führte jedoch zu neuen Herausforderungen: "Wir ertrinken in Informationen, aber uns dürstet nach Wissen" (John Naisbitt). Der Heuhaufen wurde riesig, aber die Nadel ist immer noch schwer zu finden.
+Diese Entwicklung führte jedoch zu neuen Herausforderungen: **"Wir ertrinken in Informationen, aber uns dürstet nach Wissen"** (John Naisbitt). Der Heuhaufen wurde riesig, aber die Nadel ist immer noch schwer zu finden.
 
 ### Cognitive Computing als Augmented Intelligence
 
