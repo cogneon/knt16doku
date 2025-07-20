@@ -31,16 +31,16 @@ Die **Wissensgesellschaft** als übergeordnetes Phänomen prägt zunehmend die i
 
 Mittelmanns Weg begann 1995/1996 mit der Teilnahme am Kompetenzzentrum für Wissens- und Prozessmanagement an der Universität Linz. Dieses interdisziplinäre Zentrum brachte Praktiker aus Industrie und NGOs, Wissenschaftler und Studierende zusammen. Als Informatikerin wechselte sie bewusst von der Technik weg und übernahm die Leitung der Arbeitsgruppe "Organizational Learning".
 
-Die intensive zweijährige Arbeit mündete in das Buch **"Geschäftsprozesse mit menschlichem Antlitz: Methoden des organisationalen Lernens anwenden"**. Im fünften Jahr entwickelte ihre Arbeitsgruppe das strategiegeleitete Vorgehensmodell **K2B (Knowledge Management to Business Excellence)**, das sie später bei Voestalpine zur Einführung von Wissensmanagement einsetzte.
+Die intensive zweijährige Arbeit mündete in das Buch **"Geschäftsprozesse mit menschlichem Antlitz: Methoden des organisationalen Lernens anwenden"**. Im fünften Jahr entwickelte ihre Arbeitsgruppe das strategiegeleitete Vorgehensmodell **K2BE (Knowledge Management to Business Excellence)**, das sie später bei Voestalpine zur Einführung von Wissensmanagement einsetzte.
 
 Von 2000 bis 2002 führte Mittelmann Wissensmanagement bei Voestalpine ein, mit verschiedenen Handlungsfeldern:
 
-- Einführung des Projektmanagement-Leitfadens mit Technikunterstützung
+- Einführung des **Projektmanagement-Leitfadens** mit Technikunterstützung
 - Lessons Learned mit dem ersten europäischen Einsatz von **Storytelling**
-- Prozessbeschreibung und High-Level-Prozessbeschreibungstools
+- **Prozessbeschreibung** und High-Level-Prozessbeschreibungstools
 - Know-how-Sicherung durch die **Wissensstaffette**
-- Wissensnetzwerke (heute würde man sie Communities nennen)
-- IT-Architektur für Wissensmanagement
+- **Wissensnetzwerke** (heute würde man sie Communities nennen)
+- **IT-Architektur** für Wissensmanagement
 
 Die **Wissensstaffette** (auch Expert-Debriefing genannt) wurde 2004 von VW übernommen und bei Voestalpine weiterentwickelt. Seit 2004 ist dieser Wissenstransferprozess "gelebte Praxis" im Unternehmen. Mittelmann stellt fest: "Über Wissensmanagement in der Voestalpine wird im Prinzip nicht mehr geredet, sondern es wird getan."
 
@@ -48,41 +48,29 @@ Die **Wissensstaffette** (auch Expert-Debriefing genannt) wurde 2004 von VW übe
 
 Mittelmann skizziert fünf zentrale Elemente ihres Idealszenarios:
 
-**Freie Bildungsressourcen**: Jede Bürgerin und jeder Bürger hat "uneingeschränkten Zugriff auf freie Bildungsressourcen". Eine entsprechende Infrastruktur stellt sicher, dass jeder, der will, auch kann. Die Ressourcen werden ständig ergänzt, erweitert und überarbeitet.
-
-**Freier Zugang zu Wissen**: Das Internet dient als "Wissensmaschine" mit kostenfreiem Zugang für alle. Ausreichende Bildung ermöglicht es jedem, Suchabfragen erfolgreich zu gestalten. Freie soziale Plattformen, sowohl virtuell als auch face-to-face, ermöglichen Diskussion und Austausch unter Gleichgesinnten.
-
-**Mensch-Maschine-Kooperation**: Menschen arbeiten "ganz selbstverständlich mit Cybersystemen, also zum Beispiel Robotern zusammen" und nutzen das Internet of Things zur Prozessbeschleunigung. Die beteiligten Menschen kennen die Grenzen dieser Systeme und setzen sie bedarfsgerecht ein. Völlig neue Berufsfelder eröffnen vielen Menschen vielfältige Perspektiven.
-
-**Menschengerechte Organisation**: Unternehmen arbeiten "weitgehend auf soziokratischer Basis" und verwenden "durchgängig eine soziale Technologie auf Basis von Gleichwertigkeit, Transparenz und Feedback". Leben und Arbeiten sind nicht mehr getrennte Bereiche, sondern haben sich ganzheitlich zusammengefügt.
-
-**Wissensbewusste und innovationsfreudige Gesellschaft**: Staaten, Regierungen, Unternehmen und Netzwerke haben einen Entwicklungsstand erreicht, "in dem das Wissen aller wertgeschätzt wird, für alle Aufgabenstellungen in der Gemeinschaft zum Einsatz kommen und Innovationen natürliches Element der gemeinsamen Weiterentwicklung sind."
+1. **Freie Bildungsressourcen**: Jede Bürgerin und jeder Bürger hat "uneingeschränkten Zugriff auf freie Bildungsressourcen". Eine entsprechende Infrastruktur stellt sicher, dass jeder, der will, auch kann. Die Ressourcen werden ständig ergänzt, erweitert und überarbeitet.
+2. **Freier Zugang zu Wissen**: Das Internet dient als "Wissensmaschine" mit kostenfreiem Zugang für alle. Ausreichende Bildung ermöglicht es jedem, Suchabfragen erfolgreich zu gestalten. Freie soziale Plattformen, sowohl virtuell als auch face-to-face, ermöglichen Diskussion und Austausch unter Gleichgesinnten.
+3. **Mensch-Maschine-Kooperation**: Menschen arbeiten "ganz selbstverständlich mit Cybersystemen, also zum Beispiel Robotern zusammen" und nutzen das Internet of Things zur Prozessbeschleunigung. Die beteiligten Menschen kennen die Grenzen dieser Systeme und setzen sie bedarfsgerecht ein. Völlig neue Berufsfelder eröffnen vielen Menschen vielfältige Perspektiven.
+4. **Menschengerechte Organisation**: Unternehmen arbeiten "weitgehend auf soziokratischer Basis" und verwenden "durchgängig eine soziale Technologie auf Basis von Gleichwertigkeit, Transparenz und Feedback". Leben und Arbeiten sind nicht mehr getrennte Bereiche, sondern haben sich ganzheitlich zusammengefügt.
+5. **Wissensbewusste und innovationsfreudige Gesellschaft**: Staaten, Regierungen, Unternehmen und Netzwerke haben einen Entwicklungsstand erreicht, "in dem das Wissen aller wertgeschätzt wird, für alle Aufgabenstellungen in der Gemeinschaft zum Einsatz kommen und Innovationen natürliches Element der gemeinsamen Weiterentwicklung sind."
 
 ### Horrorszenario gesellschaftlicher Spaltung
 
 Als Gegenpol zum Idealszenario zeichnet Mittelmann ein düsteres Bild möglicher Entwicklungen:
 
-**Bildung nur für finanzkräftige Eliten**: Umfassende Bildung nur für Wohlhabende würde "den Ausschluss der überwiegenden Mehrheit der Bevölkerung bedeuten". Dies ist bereits teilweise Realität, wenn man den unterfinanzierten öffentlichen Bildungssektor mit der wachsenden Zahl privat finanzierter Schulen und Hochschulen vergleicht.
-
-**Digitale Spaltung**: Ein erheblicher Bevölkerungsanteil hat weder die finanziellen noch die technischen Ressourcen für Internetzugang. Hinzu kommt der Personenkreis, der "aufgrund fehlender digitaler Bildung nicht einmal dazu in der Lage ist", daran teilzunehmen.
-
-**Arbeitslosigkeit durch Digitalisierung**: Laut Untersuchungen der Gartner Group werden "circa die Hälfte der derzeitigen Berufe verschwinden", weil Cybersysteme ihre Aufgaben besser und effizienter ausführen können. Ohne Umschulung droht Arbeitslosigkeit in unvorstellbaren Dimensionen.
-
-**Organisationen als Wissensbunker**: Trotz digitaler Vernetzung kann Wissen bewusst zurückgehalten werden. Bereits heute werden nicht nur Produkte, sondern auch biochemische Systeme wie veränderte Samen durch Patente geschützt. Diese Entwicklung könnte sich auf andere Bereiche ausweiten.
-
-**Innovationsfeindliche Umwelt**: Wenn Wissen in Bunkern zurückgehalten wird, wird es "immer schwieriger, wenn nicht sogar unmöglich, Innovationen voranzutreiben" - außer in den geschützten Bereichen der Wissensbesitzer.
+1. **Bildung nur für finanzkräftige Eliten**: Umfassende Bildung nur für Wohlhabende würde "den Ausschluss der überwiegenden Mehrheit der Bevölkerung bedeuten". Dies ist bereits teilweise Realität, wenn man den unterfinanzierten öffentlichen Bildungssektor mit der wachsenden Zahl privat finanzierter Schulen und Hochschulen vergleicht.
+2. **Digitale Spaltung**: Ein erheblicher Bevölkerungsanteil hat weder die finanziellen noch die technischen Ressourcen für Internetzugang. Hinzu kommt der Personenkreis, der "aufgrund fehlender digitaler Bildung nicht einmal dazu in der Lage ist", daran teilzunehmen.
+3. **Arbeitslosigkeit durch Digitalisierung**: Laut Untersuchungen der Gartner Group werden "circa die Hälfte der derzeitigen Berufe verschwinden", weil Cybersysteme ihre Aufgaben besser und effizienter ausführen können. Ohne Umschulung droht Arbeitslosigkeit in unvorstellbaren Dimensionen.
+4. **Organisationen als Wissensbunker**: Trotz digitaler Vernetzung kann Wissen bewusst zurückgehalten werden. Bereits heute werden nicht nur Produkte, sondern auch biochemische Systeme wie veränderte Samen durch Patente geschützt. Diese Entwicklung könnte sich auf andere Bereiche ausweiten.
+5. **Innovationsfeindliche Umwelt**: Wenn Wissen in Bunkern zurückgehalten wird, wird es "immer schwieriger, wenn nicht sogar unmöglich, Innovationen voranzutreiben" - außer in den geschützten Bereichen der Wissensbesitzer.
 
 ### Erfolgsstrategien für eine lernende Zukunft
 
 Mittelmann identifiziert drei zentrale Erfolgsstrategien:
 
-**Lernen als Grundeinstellung im Bildungssystem verankern**: "Kinder sind die neugierigsten und lernhungrigsten Menschen der Welt. Es muss uns gelingen, diese Neugier und diesen Hunger nach Wissen bis ins hohe Alter am Leben zu erhalten." Dies erfordert eine massive Bildungsreform mit reformpädagogischen Ansätzen und Digitalisierung im öffentlichen Bildungssystem.
-
-Mittelmann präzisiert: "Ich stelle immer wieder fest, wenn Menschen so eine normale Bildung durchlaufen, dann verlieren sie irgendwann einmal so die Lust am Lernen. Und das darf nicht passieren." Es geht nicht um das Lernen an sich, sondern um das "Lernen wollen" und die fundamentale Neugier, etwas Neues erfahren zu wollen.
-
-**Innovationsfreundliche Unternehmenskultur fördern**: Dies erfordert "Partizipation und Selbstorganisation als Grundprinzipien in die Organisationen zu bringen", um "die innovative Kraft, die der gesamten Mitarbeiter zweifelsohne vorhanden ist, freizubekommen". Eine soziokratische oder ähnliche Organisationsform soll gefördert werden.
-
-**Klima des sozialen Miteinanders schaffen**: Durch entsprechende Initiativen sollen "Bürgerinnen und Bürger regional näher zusammengebracht werden", um Vertrauen zu stärken und Nachbarschaftshilfe zu gelebter Praxis zu machen.
+1. **Lernen als Grundeinstellung im Bildungssystem verankern**: "Kinder sind die neugierigsten und lernhungrigsten Menschen der Welt. Es muss uns gelingen, diese Neugier und diesen Hunger nach Wissen bis ins hohe Alter am Leben zu erhalten." Dies erfordert eine massive Bildungsreform mit reformpädagogischen Ansätzen und Digitalisierung im öffentlichen Bildungssystem. Mittelmann präzisiert: "Ich stelle immer wieder fest, wenn Menschen so eine normale Bildung durchlaufen, dann verlieren sie irgendwann einmal so die Lust am Lernen. Und das darf nicht passieren." Es geht nicht um das Lernen an sich, sondern um das "Lernen wollen" und die fundamentale Neugier, etwas Neues erfahren zu wollen.
+2. **Innovationsfreundliche Unternehmenskultur fördern**: Dies erfordert "Partizipation und Selbstorganisation als Grundprinzipien in die Organisationen zu bringen", um "die innovative Kraft, die der gesamten Mitarbeiter zweifelsohne vorhanden ist, freizubekommen". Eine soziokratische oder ähnliche Organisationsform soll gefördert werden.
+3. **Klima des sozialen Miteinanders schaffen**: Durch entsprechende Initiativen sollen "Bürgerinnen und Bürger regional näher zusammengebracht werden", um Vertrauen zu stärken und Nachbarschaftshilfe zu gelebter Praxis zu machen.
 
 ### Fazit
 
