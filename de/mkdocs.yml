@@ -1,0 +1,71 @@
+site_name: KnowTouch 2016 Dokumentation
+site_url: https://cogneon.github.io/knt16doku/de/
+docs_dir: src
+site_dir: ../docs/de
+edit_uri: ''
+
+nav:
+    - Willkommen: index.md
+    - Vorab-Webinare:
+      - Angelika Mittelmann: 1-1-mittelmann.md
+      - Peter Schütt: 1-2-schuett.md
+      - Werner Sauter, Jochen Robes, Daniel Stoller-Schai: 1-3-sauter-robes-stoller-schai.md
+      - Nick Milton: 1-4-milton.md
+    - Keynotes:
+      - Simon Dückert - Lernende Organisationen – State of the Union: 2-1-dueckert.md
+      - Stefan Kühl - Jenseits der Verklärung der Lernenden Organisation: 2-2-kuehl.md
+      - Peter Pawlowsky - Was wissen wir nach 20 Jahren Wissensmanagement aus Perspektive der Personalführung?: 2-3-pawlowsky.md
+      - Kai Romhardt - Die geistige Dimension des Wissensmanagements: 2-4-romhardt.md
+    - Vorträge:
+      - Karsten Ehms - Lektionen aus 20 Jahren Wissensmanagement bei Siemens: 3-1-ehms.md
+      - Ulrich Schmidt - My Life as a Knowledge Worker: 3-2-schmidt.md
+      - Eva-Maria Bruch, Martin Kimmich - 10 Jahre Wissensmanagement bei Festo – Eine Reflektion: 3-3-bruch-kimmich.md
+      - Werner Stockinger - Die Evolution des Wissensmanagements bei der EnBW: 3-4-stockinger.md
+      - Thomas Jenewein - Lern-Communities bei SAP: 3-5-jenewein.md
+      - Anna Gutzmann, Gudrun Behm-Steidel - Studiengang Informations- und Wissensmanagement: 3-6-gutzmann-behm-steidel.md
+      - Paul Seren - 21st Century Skills - Ausbildung der Zukunft: 3-7-seren.md
+      - Franz Lehner  - Die Kluft zwischen Theorie und Praxis im Wissensmanagement: 3-8-lehner.md
+    - Sessions: 4-0-sessions.md
+    - Anhang: 5-0-appendix.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/knt16doku/blob/master/de/knt16-Documentation-de.pdf
+      - Word-Version: https://github.com/cogneon/knt16doku/blob/master/de/knt16-Documentation-de.docx
+      - HTML-Version: https://github.com/cogneon/knt16doku/blob/master/de/knt16-Documentation-de.html
+      - E-Book-Version: https://github.com/cogneon/knt16doku/blob/master/de/knt16-Documentation-de.epub
+      - Markdown: https://github.com/cogneon/knt16doku/blob/master/de/knt16-Documentation-de.md
+
+
+
+theme:
+    name: 'material'
+#    custom_dir: src/overrides
+    palette:
+        primary: black
+    language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
+    features:
+      - toc.integrate
+      - search.share
+
+#extra_css:
+#  - stylesheets/extra.css
+
+repo_name: 'cogneon/loscon25doku'
+repo_url: 'https://github.com/cogneon/loscon25doku'
+
+extra:
+    social:
+        - icon: fontawesome/brands/linkedin
+          link: 'https://www.linkedin.com/groups/8682361/'
+    generator: false
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  
+plugins:
+  - search

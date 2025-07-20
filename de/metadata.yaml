@@ -1,0 +1,17 @@
+---
+title: "KnowTouch 2016 Dokumentation"
+subtitle: "KI-unterstützte Dokumentation der KnowTouch 2016"
+author: "Cogneon GmbH (Herausgeber)"
+date: 20.07.2025 (Version 1.0)
+titlepage: true
+titlepage-color: "000000"
+titlepage-text-color: "ff6600"
+titlepage-rule-color: "ff6600"
+links-as-notes: true
+lof: false
+toc: true
+toc-own-page: true
+toc-depth: 2
+titlepage-logo: ./src/images/knt16-key-visual.png
+logo-width: 100mm
+---
