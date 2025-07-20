@@ -76,6 +76,7 @@ Aus seinen Erfahrungen entwickelte Schmidt verschiedene Grundprinzipien:
 #### Zielgruppenspezifische Lösungen
 
 Schmidt unterscheidet zwischen verschiedenen Graden der Wissensarbeit:
+
 - **Wissensarbeit** (z.B. Ingenieure)
 - **Wissensintensive Arbeit** 
 - **Wissensbasierte Arbeit** (einfachste Stufe)
@@ -85,6 +86,7 @@ Lösungen müssen entsprechend angepasst werden, da eine Lösung, die für Ingen
 #### Kommunikation anpassen
 
 Schmidt entwickelte eine Analogie zum Autofahren:
+
 - **Autokonstrukteure**: Wissensmanagement-Experten, die tiefes technisches Verständnis haben
 - **Automechaniker**: Knowledge Management Facilitatoren als Vermittler
 - **Autofahrer**: Nutzer von Wissensmanagement, die einfach nur fahren wollen
@@ -124,6 +126,7 @@ Aus seinen Vorlesungen an Hamburger Hochschulen seit 2003 entwickelte Schmidt zw
 Schmidts Vortrag zeigt eindrucksvoll die Entwicklung des Wissensmanagements über drei Jahrzehnte aus der Perspektive eines Praktikers. Seine wichtigsten Erkenntnisse lassen sich wie folgt zusammenfassen:
 
 **Kritische Erfolgsfaktoren:**
+
 - Unabhängigkeit vom Wohlwollen einzelner Personen durch institutionelle Verankerung
 - Zielgruppenspezifische Lösungen statt "One-Size-Fits-All"-Ansätze
 - Integration in bestehende Prozesse und Strukturen
@@ -131,11 +134,13 @@ Schmidts Vortrag zeigt eindrucksvoll die Entwicklung des Wissensmanagements übe
 - Berücksichtigung branchenspezifischer Besonderheiten
 
 **Zentrale Herausforderungen:**
+
 - Unternehmenskultur als entscheidender Faktor für Erfolg oder Misserfolg
 - Notwendigkeit tiefer Fachkenntnis für effektives Wissensmanagement in Spezialbereichen
 - Balance zwischen schneller Implementierung und nachhaltiger Verankerung
 
 **Handlungsempfehlungen:**
+
 - Wissensbilanz Made in Germany professionell durchführen lassen, um Handlungsfelder zu identifizieren
 - Physische Zusammenkünfte und Dialogformate als zentrale Instrumente nutzen
 - Verschwendungsarten bei Wissensarbeit systematisch analysieren und reduzieren
