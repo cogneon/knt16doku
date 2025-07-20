@@ -36,13 +36,12 @@ Die lokale Rationalität von Wissensmanagern führe dazu, dass sie Wissen und Le
 
 Organisationen produzieren durch ihre Strukturbildung automatisch blinde Flecken - dies ist unvermeidlich und funktional notwendig. Kühl unterscheidet zwei Typen von Entscheidungen:
 
-**Entscheidungen über Strukturen:** Hier setzen klassische Reflexe des Wissensmanagements ein - Strategieprojekte und Change-Management fördern Organisationslernen und Wissensverarbeitung.
-
-**Entscheidungen im Rahmen bestehender Strukturen:** Diese werden weniger betrachtet, obwohl sie den Organisationsalltag prägen. Hierarchische Entscheidungen und etablierte Programme dürfen in der Regel nicht grundsätzlich in Frage gestellt werden, da sonst die Funktionsfähigkeit der Organisation gefährdet wäre.
+1. **Entscheidungen über Strukturen:** Hier setzen klassische Reflexe des Wissensmanagements ein - Strategieprojekte und Change-Management fördern Organisationslernen und Wissensverarbeitung.
+2. **Entscheidungen im Rahmen bestehender Strukturen:** Diese werden weniger betrachtet, obwohl sie den Organisationsalltag prägen. Hierarchische Entscheidungen und etablierte Programme dürfen in der Regel nicht grundsätzlich in Frage gestellt werden, da sonst die Funktionsfähigkeit der Organisation gefährdet wäre.
 
 Dieser Strukturschutz führt zu selbstverstärkenden Effekten: Starre Strukturen filtern Umweltinformationen, was die Organisation in ihren aktuellen Strukturen bestätigt und zur weiteren Verfestigung führt. Historische Beispiele wie Faceit AB (mechanische Rechenmaschinen) oder IBM (Großrechner statt PCs) zeigen, wie strukturbedingte blinde Flecken zu strategischen Fehlentscheidungen führen können.
 
-Kühl stellt die Hypothese auf, dass die "lämmigartige" Reaktion des Managements auf Buzzwords wie "Big Data" oder "Industrie 4.0" eine Panikreaktion auf die Erkenntnis strukturbedingter blinder Flecken darstellen könnte.
+Kühl stellt die Hypothese auf, dass die "lemmigartige" Reaktion des Managements auf Buzzwords wie "Big Data" oder "Industrie 4.0" eine Panikreaktion auf die Erkenntnis strukturbedingter blinder Flecken darstellen könnte.
 
 ### Die Rolle von Tabus im organisationalen Wissensmanagement
 
@@ -65,6 +64,7 @@ Kühls zentrale These lautet: Die Prinzipien IT-gestützter Wissensplattformen -
 Am Beispiel der VW/Audi-Skandale verdeutlicht er: Hunderte oder Tausende von Mitarbeitern wussten Bescheid, aber ein IT-gestütztes System hätte diese Informationen vermutlich nicht verarbeiten können.
 
 Seine Beobachtungen aus der Beratungspraxis zeigen alternative Mechanismen:
+
 - Workshops mit drei Hierarchiestufen aktivieren automatisch Zensurmechanismen (zwei Stufen sind noch möglich)
 - Kritische Informationen werden oft in Vor- und Nachbereitungsgesprächen zu Workshops verarbeitet, nicht in den Workshops selbst
 - Face-to-Face-Interaktionen ermöglichen bessere Tabu-Bearbeitung als transparente IT-Systeme
