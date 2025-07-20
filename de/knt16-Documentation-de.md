@@ -777,7 +777,16 @@ vernetzten Wissensgesellschaft für die Zukunft.**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TUR6G7ltNes?si=etv9B-kS-qIUEhrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-Hauptthemen des Beitrags:
+- **Referent:innen:** [Simon
+  Dückert](https://www.linkedin.com/in/simondueckert/)
+- **Material:** [Folien](https://cloud.cogneon.de/s/9jnR2so9r4EDknc)
+- **Aufzeichnung:**
+  [Video](https://www.youtube.com/watch?v=TUR6G7ltNes&list=PLsDEDkLIwmRxlOVfw5CrZcOMCPSw2p8nF&index=6)
+- **Transkript:** [txt](2-1-dueckert.txt)
+
+------------------------------------------------------------------------
+
+**Hauptthemen des Beitrags:**
 
 1.  Die aktuelle Situation des Wissensmanagements nach 20 Jahren
 2.  Megatrends Digitalisierung und Vernetzung als Treiber
@@ -948,6 +957,11 @@ nicht erfassen.**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x1C2xgGHyvE?si=K_YP1VsCry9XoJCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
+
+- **Referent:innen:**
+- **Material:**
+- **Aufzeichnung:**
+- **Transkript:**
 
 Hauptthemen des Beitrags:
 
