@@ -35,7 +35,7 @@ Ein zweites Verwirrungsfeld identifiziert er bei der Rolle der Technologie. Die 
 Trotz dieser Verwirrungen kristallisiert sich ein Kern des Wissensmanagements heraus. Eine Umfrage unter fast 400 Wissensmanagern weltweit identifizierte die populärsten Elemente:
 
 - Vernetzung von Menschen durch Netzwerke (Communities of Practice)
-- Lernen aus Erfahrungen (Lesson Learning)
+- Lernen aus Erfahrungen (Lessons Learned)
 - Zugang zu Dokumenten
 - Wissensbewahrung (Knowledge Retention)
 - Best Practices
@@ -83,7 +83,7 @@ Google-Suchen zeigen die unterschiedliche Aufmerksamkeit für diese Bereiche: "K
 **Zukunft Himmel** würde bedeuten:
 
 - Wir wissen, was KM ist - als eigenständige Disziplin, fokussiert auf Wissen
-- Wir verstehen es als Managementframework, nicht als Technologie
+- Wir verstehen es als Management-Framework, nicht als Technologie
 - Klare Abgrenzung zu verwandten Disziplinen trotz Überschneidungen
 - 70% Erfolgsrate statt 70% Misserfolgsrate
 
@@ -107,7 +107,7 @@ Der Standard wird drei Hauptnutzen haben:
 
 ### Fazit
 
-Milton zeichnet ein differenziertes Bild des Wissensmanagements nach 20 Jahren Entwicklung. Trotz anhaltender Verwirrungen und wiederkehrender Fehler kristallisiert sich ein Kern der Disziplin heraus. Der entscheidende Paradigmenwechsel liegt im Verständnis von Wissensmanagement als ganzheitlichem Managementframework statt als Sammlung von Tools oder Technologien.
+Milton zeichnet ein differenziertes Bild des Wissensmanagements nach 20 Jahren Entwicklung. Trotz anhaltender Verwirrungen und wiederkehrender Fehler kristallisiert sich ein Kern der Disziplin heraus. Der entscheidende Paradigmenwechsel liegt im Verständnis von Wissensmanagement als ganzheitlichem Management-Framework statt als Sammlung von Tools oder Technologien.
 
 **Offene Fragen und Herausforderungen:**
 
