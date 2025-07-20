@@ -1526,11 +1526,14 @@ Digitalisierung. Sein zentraler Ansatz: Wissensmanagement als Balance
 zwischen persönlichem Wissensaustausch und informationsgestützten
 Systemen zu verstehen.**
 
-Hauptthemen des Beitrags: 1. Historische Entwicklung des
-Wissensmanagements bei Siemens 2. Bewährte Werkzeuge und Plattformen 3.
-Symptome und Ursachen der Schwierigkeiten im Wissensmanagement 4.
-Theoretische Fundierung als Schlüssel zum Erfolg 5. Neue Denkansätze für
-Wissensmanagement 6. Herausforderungen der Digitalisierung
+Hauptthemen des Beitrags:
+
+1.  Historische Entwicklung des Wissensmanagements bei Siemens
+2.  Bewährte Werkzeuge und Plattformen
+3.  Symptome und Ursachen der Schwierigkeiten im Wissensmanagement
+4.  Theoretische Fundierung als Schlüssel zum Erfolg
+5.  Neue Denkansätze für Wissensmanagement
+6.  Herausforderungen der Digitalisierung
 
 ### Historische Entwicklung des Wissensmanagements bei Siemens
 
@@ -1593,19 +1596,24 @@ Ehms identifiziert sowohl unspezifische als auch spezifische Symptome,
 die zeigen, warum Wissensmanagement schwierig bleibt:
 
 **Unspezifische Symptome** (auch auf andere Management-Disziplinen
-übertragbar): - Der Dauerbrenner "Technologie ist nur Enabler" - eine
-Aussage, die zwar richtig, aber wenig hilfreich ist - Die Suche nach der
-einen PowerPoint-Slide, die den Vorstand überzeugt - Der Ruf nach einem
-neuen Namen für bekannte Konzepte - Motivationsfragen, die als unlösbar
-dargestellt werden, obwohl sie psychologisch gut verstanden sind
+übertragbar):
 
-**Spezifische Symptome des Wissensmanagements**: - Der Versuch, alles
-Wissen managen zu wollen, ohne selektiv vorzugehen - Die Gleichsetzung
-von Wissensmanagement mit dem Aufschreiben und Explizieren allen
-Wissens - Die Anwendung von "gesundem Menschenverstand" ohne
-entsprechende Ausbildung - Der "Mechanik-Alarm": Die Verwendung
-mechanischer Metaphern wie Stellhebel und Schrauben für immaterielle
-Prozesse
+- Der Dauerbrenner "Technologie ist nur Enabler" - eine Aussage, die
+  zwar richtig, aber wenig hilfreich ist
+- Die Suche nach der einen PowerPoint-Slide, die den Vorstand überzeugt
+- Der Ruf nach einem neuen Namen für bekannte Konzepte
+- Motivationsfragen, die als unlösbar dargestellt werden, obwohl sie
+  psychologisch gut verstanden sind
+
+**Spezifische Symptome des Wissensmanagements**:
+
+- Der Versuch, alles Wissen managen zu wollen, ohne selektiv vorzugehen
+- Die Gleichsetzung von Wissensmanagement mit dem Aufschreiben und
+  Explizieren allen Wissens
+- Die Anwendung von "gesundem Menschenverstand" ohne entsprechende
+  Ausbildung
+- Der "Mechanik-Alarm": Die Verwendung mechanischer Metaphern wie
+  Stellhebel und Schrauben für immaterielle Prozesse
 
 **Grundlegende Ursachen**:
 
@@ -1625,7 +1633,10 @@ Demokratisierungsaspekte aufwirft - Themen, die heute in Diskussionen
 
 Ein zentraler Kritikpunkt ist das mangelnde Rückgreifen auf etablierte
 Basisdisziplinen. Wissensmanagement könnte von folgenden Bereichen
-profitieren: - Managementlehre - Psychologie und Soziologie\
+profitieren:
+
+- Managementlehre
+- Psychologie und Soziologie\
 - Allgemeine Didaktik und Pädagogik
 
 Das Problem liegt in der **pluralistischen Theoriebildung**: Es gibt
@@ -1649,16 +1660,20 @@ und Systeme).**
 Diese Definition vermeidet komplexe Abgrenzungen zwischen Wissen und
 Information und fokussiert auf die praktische Herausforderung: Für jede
 Organisation und jede spezifische Situation die richtige Balance zu
-finden zwischen: - Direktem persönlichem Wissensaustausch -
-Informationsgestützten Systemen - Fallweiser Anpassung statt
-universeller Best Practices
+finden zwischen:
+
+- Direktem persönlichem Wissensaustausch
+- Informationsgestützten Systemen
+- Fallweiser Anpassung statt universeller Best Practices
 
 ### Herausforderungen der Digitalisierung
 
 Die Digitalisierung erweitert das Kontinuum um eine dritte Dimension:
 **kognitive Systeme und Automatismen**. Dies verschärft die bereits
-schwierige Balance, da nun drei Optionen abgewogen werden müssen: -
-Persönlicher Wissensaustausch - Dokumentenbasierte Systeme\
+schwierige Balance, da nun drei Optionen abgewogen werden müssen:
+
+- Persönlicher Wissensaustausch
+- Dokumentenbasierte Systeme\
 - Automatisierte/KI-gestützte Systeme
 
 Die zentrale Frage lautet: "Wen fragen Sie, der keine eindeutigen
@@ -1674,13 +1689,15 @@ möglicherweise überholt ist. Die Herausforderungen der Immaterialität,
 die schon das Wissensmanagement prägten, sind hochrelevant für aktuelle
 Digitalisierungsthemen.
 
-**Offene Fragen und Handlungsempfehlungen**: - Wie kann die Balance
-zwischen persönlichem Austausch, dokumentenbasierten Systemen und
-KI-Automatisierung fallspezifisch optimiert werden? - Wie lässt sich die
-notwendige theoretische Fundierung in der Praxis etablieren, ohne die
-Komplexität pluralistischer Ansätze zu scheuen? - Welche Rolle können
-Wissensspezialisten als unabhängige Berater bei
-Digitalisierungsentscheidungen spielen?
+**Offene Fragen und Handlungsempfehlungen**:
+
+- Wie kann die Balance zwischen persönlichem Austausch,
+  dokumentenbasierten Systemen und KI-Automatisierung fallspezifisch
+  optimiert werden?
+- Wie lässt sich die notwendige theoretische Fundierung in der Praxis
+  etablieren, ohne die Komplexität pluralistischer Ansätze zu scheuen?
+- Welche Rolle können Wissensspezialisten als unabhängige Berater bei
+  Digitalisierungsentscheidungen spielen?
 
 **Zentrale Handlungsempfehlung**: Investieren Sie in fundierte
 Ausbildung und theoretisches Verständnis der Basisdisziplinen, bevor Sie
@@ -1923,12 +1940,15 @@ strategische Verankerung auf Eigentümerebene und die praktische
 Umsetzung durch Communities, Social Networking und moderne
 Collaboration-Tools.**
 
-Hauptthemen des Beitrags: 1. Unternehmenskontext und strategische
-Verankerung von Wissensmanagement bei Festo 2. Organisatorische
-Einbettung und Selbstverständnis des Wissensmanagements 3. Konkrete
-Methoden und Tools im Wissensmanagement-Portfolio 4. Historische
-Entwicklung des Wissensmanagements bei Festo (2004-2016) 5. Aktuelle
-Herausforderungen und Zukunftsperspektiven
+Hauptthemen des Beitrags:
+
+1.  Unternehmenskontext und strategische Verankerung von
+    Wissensmanagement bei Festo
+2.  Organisatorische Einbettung und Selbstverständnis des
+    Wissensmanagements
+3.  Konkrete Methoden und Tools im Wissensmanagement-Portfolio
+4.  Historische Entwicklung des Wissensmanagements bei Festo (2004-2016)
+5.  Aktuelle Herausforderungen und Zukunftsperspektiven
 
 ### Unternehmenskontext und strategische Verankerung von Wissensmanagement bei Festo
 
@@ -1963,11 +1983,13 @@ Seit zweieinhalb Jahren sind Wissensmanagement und Kompetenzmanagement
 organisatorisch verbunden, was die enge Verzahnung beider Disziplinen
 unterstreicht.
 
-Der HR Development Bereich gliedert sich in mehrere Bereiche: -
-Knowledge and Competence Management - Academy (Learning Infrastruktur) -
-Qualifizierung (klassischer Weiterbildungskatalog) - Organisation und
-Talent Development (Karriereentwicklung, Leadership Development,
-Unternehmenskultur)
+Der HR Development Bereich gliedert sich in mehrere Bereiche:
+
+- Knowledge and Competence Management
+- Academy (Learning Infrastruktur)
+- Qualifizierung (klassischer Weiterbildungskatalog)
+- Organisation und Talent Development (Karriereentwicklung, Leadership
+  Development, Unternehmenskultur)
 
 Das Selbstverständnis des Teams wird klar definiert: "Wir verstehen uns
 als Unterstützer unserer Mitarbeiter, zum einen in Bezug auf
@@ -2030,10 +2052,12 @@ und Organisation.
 
 **Phase 2 (2007-2013): Institutionalisierung** 2006 wurde ein Competence
 Center Wissensmanagement in der globalen IT-Organisation etabliert.
-Kernprojekte waren: - "My Festo": Aufwertung des Lotus Notes-basierten
-Intranets mit Personalisierungsfunktionen - "Fit for Communication":
-Programm zum Wandel von E-Mail-lastiger zu persönlicher und
-Online-Kommunikation
+Kernprojekte waren:
+
+- "My Festo": Aufwertung des Lotus Notes-basierten Intranets mit
+  Personalisierungsfunktionen
+- "Fit for Communication": Programm zum Wandel von E-Mail-lastiger zu
+  persönlicher und Online-Kommunikation
 
 Das "Fit for Communication" Programm erwies sich als besonders wertvoll:
 18 Monate vor der Wirtschaftskrise 2008 wurden Mitarbeiter in
@@ -2108,18 +2132,22 @@ kontinuierliche Weiterentwicklung und Anpassung an neue Trends (ISO
 9001, Office 365, Social Intranet) zeigt die Lernfähigkeit der
 Organisation.
 
-**Offene Fragen:** - Wie kann das Mittelmanagement effektiver als
-Multiplikator gewonnen werden? - Welche Rolle wird Wissensmanagement in
-einer zunehmend digitalisierten Arbeitswelt spielen? - Sind
-organisatorische Labels wie "Wissensmanagement" noch zeitgemäß oder
-behindern sie die Integration?
+**Offene Fragen:**
 
-**Handlungsempfehlungen:** - Externe Vernetzung und Austausch mit
-anderen Organisationen fortsetzen - Geduld und langen Atem bei der
-Etablierung sozialer Tools beweisen - Den Fokus auf den Mehrwert für den
-einzelnen Mitarbeiter beibehalten - Die Verbindung von Wissens- und
-Kompetenzmanagement weiter ausbauen - Kontinuierlich aktuelle Trends
-aufgreifen und adaptieren
+- Wie kann das Mittelmanagement effektiver als Multiplikator gewonnen
+  werden?
+- Welche Rolle wird Wissensmanagement in einer zunehmend digitalisierten
+  Arbeitswelt spielen?
+- Sind organisatorische Labels wie "Wissensmanagement" noch zeitgemäß
+  oder behindern sie die Integration?
+
+**Handlungsempfehlungen:**
+
+- Externe Vernetzung und Austausch mit anderen Organisationen fortsetzen
+- Geduld und langen Atem bei der Etablierung sozialer Tools beweisen
+- Den Fokus auf den Mehrwert für den einzelnen Mitarbeiter beibehalten
+- Die Verbindung von Wissens- und Kompetenzmanagement weiter ausbauen
+- Kontinuierlich aktuelle Trends aufgreifen und adaptieren
 
 ## Evolution des Wissensmanagements bei der EnBW
 
@@ -2132,10 +2160,13 @@ strategischer Prioritäten bleibt Wissensmanagement ein zentrales Element
 der Organisationsentwicklung, auch wenn es heute unter anderen Begriffen
 firmiert.**
 
-Hauptthemen des Beitrags: 1. Frühe strategische Phase des
-Wissensmanagements (2005-2008) 2. Operative Umsetzung durch
-Wissenstransfer-Methoden 3. Innovation Labs und neue Arbeitsformen 4.
-Digitalisierung der Weiterbildung 5. Lessons Learned und Erfolgsfaktoren
+Hauptthemen des Beitrags:
+
+1.  Frühe strategische Phase des Wissensmanagements (2005-2008)
+2.  Operative Umsetzung durch Wissenstransfer-Methoden
+3.  Innovation Labs und neue Arbeitsformen
+4.  Digitalisierung der Weiterbildung
+5.  Lessons Learned und Erfolgsfaktoren
 
 ### Frühe strategische Phase des Wissensmanagements (2005-2008)
 
@@ -2155,10 +2186,16 @@ Geschäftsbereiche - von Strom und Gas bis hin zu Wasser - an.
 
 Ein zentrales Instrument war die "Wissensbilanz made in Germany", die
 das intellektuelle und immaterielle Kapital des Unternehmens bewertete.
-Neun Indikatoren wurden definiert: - Fachkompetenz -
-Managementkompetenz - Sozialkompetenz - Mitarbeitermotivation -
-Unternehmenskultur - Kommunikation - Innovation - Beziehungen zu Kunden,
-Kooperationspartnern und Stakeholdern
+Neun Indikatoren wurden definiert:
+
+- Fachkompetenz
+- Managementkompetenz
+- Sozialkompetenz
+- Mitarbeitermotivation
+- Unternehmenskultur
+- Kommunikation
+- Innovation
+- Beziehungen zu Kunden, Kooperationspartnern und Stakeholdern
 
 Ab 2008 wurden die Ergebnisse sogar öffentlich im Lagebericht des
 Geschäftsberichts veröffentlicht, sodass auch Investoren Einblicke in
@@ -2175,9 +2212,11 @@ Ansätze für den Transfer von Erfahrungswissen. Im Zentrum stand die
 "Wissensstaffette" - eine einfache Methode mit moderierten
 Übergabegesprächen zwischen Wissensgebern und Wissensnehmern. Die
 Methode wurde von VW Coaching eingekauft und für verschiedene
-Anwendungsgebiete adaptiert: - Ausscheiden oder Wechsel von
-Mitarbeitern - Aufbau von Wissenslandkarten - Einarbeitung neuer
-Mitarbeiter
+Anwendungsgebiete adaptiert:
+
+- Ausscheiden oder Wechsel von Mitarbeitern
+- Aufbau von Wissenslandkarten
+- Einarbeitung neuer Mitarbeiter
 
 Der Erfolg hing stark von der Moderation ab. "Es hängt sehr viel
 jedenfalls bei uns daran, dass jemand da ist, der das Ganze moderiert
@@ -2261,25 +2300,31 @@ wurden "fast alle Elemente gut abgedeckt", andererseits könnte man
 kritisieren, dass "überall ein bisschen was gemacht" wurde ohne klaren
 Schwerpunkt.
 
-Zentrale Erkenntnisse: - **Begrenzte Nachhaltigkeit**: "Einige von
-diesen Methoden sind nicht so langlebig" - die Wissensbilanz wird nicht
-mehr durchgeführt, andere Ansätze sind "eingeschlafen" - **Zyklische
-Entwicklung**: "Das ändert sich ganz einfach" - manche Themen wie
-Communities oder Projekt-Wissensmanagement erleben Wiederaufblühungen -
-**Weniger Technikfokussierung**: Die "Toolfrage steht nicht mehr so im
-Vordergrund, sondern eher das Wie und weniger das Womit" -
-**Management-Unterstützung essentiell**: "Wenn es keine aktive
-Unterstützung vom Top- oder vom oberen Management geht, dann ist es sehr
-schwer" - **Middle-Up-Down-Prinzip**: Initiativen aus dem mittleren
-Management können sich "wie so ein Feuer von nach unten und oben
-ausbreiten", brauchen aber "einen starken Treiber"
+Zentrale Erkenntnisse:
 
-Fünf Erfolgsfaktoren wurden identifiziert: 1. Geeignete
-Rahmenbedingungen (ähnlich einem "bedingungslosen Lerngrundeinkommen")
-2. Die richtige Haltung und Werte als Schwerpunkt 3. Entwicklung einer
-"wissensorientierten Brille" bei Führungskräften 4. Verständnis für
-Wissensflüsse und Wissensarbeiter 5. Integration in
-Entscheidungsprozesse
+- **Begrenzte Nachhaltigkeit**: "Einige von diesen Methoden sind nicht
+  so langlebig" - die Wissensbilanz wird nicht mehr durchgeführt, andere
+  Ansätze sind "eingeschlafen"
+- **Zyklische Entwicklung**: "Das ändert sich ganz einfach" - manche
+  Themen wie Communities oder Projekt-Wissensmanagement erleben
+  Wiederaufblühungen
+- **Weniger Technikfokussierung**: Die "Toolfrage steht nicht mehr so im
+  Vordergrund, sondern eher das Wie und weniger das Womit"
+- **Management-Unterstützung essentiell**: "Wenn es keine aktive
+  Unterstützung vom Top- oder vom oberen Management geht, dann ist es
+  sehr schwer"
+- **Middle-Up-Down-Prinzip**: Initiativen aus dem mittleren Management
+  können sich "wie so ein Feuer von nach unten und oben ausbreiten",
+  brauchen aber "einen starken Treiber"
+
+Fünf Erfolgsfaktoren wurden identifiziert:
+
+1.  Geeignete Rahmenbedingungen (ähnlich einem "bedingungslosen
+    Lerngrundeinkommen")
+2.  Die richtige Haltung und Werte als Schwerpunkt
+3.  Entwicklung einer "wissensorientierten Brille" bei Führungskräften
+4.  Verständnis für Wissensflüsse und Wissensarbeiter
+5.  Integration in Entscheidungsprozesse
 
 ### Fazit
 
@@ -2293,14 +2338,16 @@ Die zentrale Botschaft lautet: "Wissen macht glücklich" - aber nur "wenn
 man die richtige Brille auf hat, dann kann man ganz sicher sein, dass
 das auch Wissen oder Wissenteilen auch glücklich macht."
 
-**Handlungsempfehlungen aus dem Vortrag:** - Entwicklung eines konkreten
-Maßnahmenmanagements und Controllings für
-Wissensmanagement-Initiativen - Stärkere Verbindung zu Geschäftszielen
-herstellen - Führungskräfte in "wissensorientierter Brille" schulen -
-Dezentrale Ansätze mit zentraler Koordination kombinieren -
-Nachhaltigkeit von Initiativen durch kontinuierliche Betreuung
-sicherstellen - Zyklische Entwicklungen antizipieren und flexibel darauf
-reagieren
+**Handlungsempfehlungen aus dem Vortrag:**
+
+- Entwicklung eines konkreten Maßnahmenmanagements und Controllings für
+  Wissensmanagement-Initiativen
+- Stärkere Verbindung zu Geschäftszielen herstellen
+- Führungskräfte in "wissensorientierter Brille" schulen
+- Dezentrale Ansätze mit zentraler Koordination kombinieren
+- Nachhaltigkeit von Initiativen durch kontinuierliche Betreuung
+  sicherstellen
+- Zyklische Entwicklungen antizipieren und flexibel darauf reagieren
 
 ## Lern-Communities bei SAP: Akzeptanz und Motivation in der digitalen Lernlandschaft
 
@@ -2313,11 +2360,14 @@ Untersuchung. Dabei wird deutlich, dass die Transformation von
 klassischem zu sozialem Lernen nicht nur technische, sondern vor allem
 kulturelle und organisatorische Hürden mit sich bringt.**
 
-Hauptthemen des Beitrags: 1. Theoretische Grundlagen von Akzeptanz und
-Motivation 2. SAP Learning Hub und Community-Struktur 3. Empirische
-Untersuchung zu Nutzerfreundlichkeit und wahrgenommenem Nutzen 4.
-Herausforderungen für Moderatoren und Lerner 5. Lessons Learned und
-Handlungsempfehlungen
+Hauptthemen des Beitrags:
+
+1.  Theoretische Grundlagen von Akzeptanz und Motivation
+2.  SAP Learning Hub und Community-Struktur
+3.  Empirische Untersuchung zu Nutzerfreundlichkeit und wahrgenommenem
+    Nutzen
+4.  Herausforderungen für Moderatoren und Lerner
+5.  Lessons Learned und Handlungsempfehlungen
 
 ### Theoretische Grundlagen von Akzeptanz und Motivation
 
@@ -2329,14 +2379,16 @@ wahrgenommenen Benutzerfreundlichkeit einer Technologie. Diese
 beeinflussen die Einstellung der Nutzer und damit letztendlich ihr
 Verhalten bei der Nutzung des Systems.
 
-Ergänzend wurden weitere Motivationsmodelle herangezogen: - Die
-**Selbstbestimmungstheorie** unterscheidet zwischen intrinsischer und
-extrinsischer Motivation - Die **Erwartungswerttheorie von Vroom**
-fokussiert auf Wert und Erwartungen als Verhaltenstreiber - **McGregors
-Theorie X und Y** kontrastiert externe Kontrolle mit selbstgesteuerter
-Motivation - **Pinks Drive-Modell** identifiziert Verbundenheit,
-Autonomie, erlebten Fortschritt und Sinnhaftigkeit als zentrale
-Motivatoren
+Ergänzend wurden weitere Motivationsmodelle herangezogen:
+
+- Die **Selbstbestimmungstheorie** unterscheidet zwischen intrinsischer
+  und extrinsischer Motivation
+- Die **Erwartungswerttheorie von Vroom** fokussiert auf Wert und
+  Erwartungen als Verhaltenstreiber
+- **McGregors Theorie X und Y** kontrastiert externe Kontrolle mit
+  selbstgesteuerter Motivation
+- **Pinks Drive-Modell** identifiziert Verbundenheit, Autonomie,
+  erlebten Fortschritt und Sinnhaftigkeit als zentrale Motivatoren
 
 Diese theoretischen Grundlagen verdeutlichen, dass Motivation ein
 komplexer Wirkmechanismus ist, der von über zehn verschiedenen Faktoren
@@ -2349,19 +2401,23 @@ nach dem Netflix-Prinzip mit einer umfangreichen Bibliothek an
 Selbstlernmaterialien. Etwa 500.000 SAP-Experten, hauptsächlich Berater
 und IT-Spezialisten, sind derzeit abonniert.
 
-Die Community-Struktur ist systematisch aufgebaut: - **120
-Lern-Communities** sind etabliert, jeweils passend zu einem Curriculum
-mit SAP-Berater-Zertifizierung - Zusätzliche Communities zu Trendthemen
-wie Design Thinking - **Dual-Betreuung**: Jede Community wird von einem
-inhaltlichen Moderator (meist Trainer) und einem technischen
-Administrator betreut - **Standardisierte Templates** und regelmäßige
-Schulungen für Community-Moderatoren
+Die Community-Struktur ist systematisch aufgebaut:
 
-Die Hauptanwendungsfälle umfassen: - Fragen und Antworten zwischen
-Teilnehmern und Trainern - Bereitstellung von Lerninhalten und Links -
-Monatliche synchrone Web-Sessions mit Aufzeichnung - Integration von
-Schulungssystemen für praktisches Lernen - Diskussionen zu Inhalten und
-technischen Aspekten
+- **120 Lern-Communities** sind etabliert, jeweils passend zu einem
+  Curriculum mit SAP-Berater-Zertifizierung
+- Zusätzliche Communities zu Trendthemen wie Design Thinking
+- **Dual-Betreuung**: Jede Community wird von einem inhaltlichen
+  Moderator (meist Trainer) und einem technischen Administrator betreut
+- **Standardisierte Templates** und regelmäßige Schulungen für
+  Community-Moderatoren
+
+Die Hauptanwendungsfälle umfassen:
+
+- Fragen und Antworten zwischen Teilnehmern und Trainern
+- Bereitstellung von Lerninhalten und Links
+- Monatliche synchrone Web-Sessions mit Aufzeichnung
+- Integration von Schulungssystemen für praktisches Lernen
+- Diskussionen zu Inhalten und technischen Aspekten
 
 ### Empirische Untersuchung zu Nutzerfreundlichkeit und wahrgenommenem Nutzen
 
@@ -2369,69 +2425,87 @@ Die qualitative Untersuchung strukturierte sich entlang der beiden
 Hauptdimensionen des Technologie-Akzeptanz-Modells und untersuchte
 sowohl die Perspektive der Lerner als auch der Moderatoren.
 
-**Nutzerfreundlichkeit - Herausforderungen:** - Trotz Facebook-ähnlicher
-Benutzeroberfläche ist nicht immer klar, welche Funktionen wofür genutzt
-werden - Komplexe Anmeldeprozesse über den Webshop erschweren den
-Einstieg - Unübersichtliche Strukturierung und Reiterorganisation -
-Fehlendes oder unzureichendes Onboarding für neue Nutzer
+**Nutzerfreundlichkeit - Herausforderungen:**
 
-**Nutzerfreundlichkeit - Verbesserungen:** - User Interface
-Design-Untersuchung führte zu Umbenennungen und strukturellen
-Anpassungen - Entwicklung standardisierter Templates für einheitliche
-Community-Gestaltung - Regelmäßige "tibetanische Gebetsmühlen" -
-wiederholte Erklärungen zu Sinn und Funktionsweise
+- Trotz Facebook-ähnlicher Benutzeroberfläche ist nicht immer klar,
+  welche Funktionen wofür genutzt werden
+- Komplexe Anmeldeprozesse über den Webshop erschweren den Einstieg
+- Unübersichtliche Strukturierung und Reiterorganisation
+- Fehlendes oder unzureichendes Onboarding für neue Nutzer
 
-**Wahrgenommener Nutzen - Moderatorenperspektive:** - Emotionaler
-Mehrwert durch positives Feedback, jedoch weniger unmittelbar als im
-Klassenraum - Wertschätzung als ergänzendes Angebot zur klassischen
-Schulung - Herausforderung mit der Beteiligung nach dem 90-9-1-Modell
-(nur 1% aktive Inhaltsersteller)
+**Nutzerfreundlichkeit - Verbesserungen:**
 
-**Wahrgenommener Nutzen - Lernerperspektive:** - Direktes Feedback und
-umfangreiche Informationen werden geschätzt - Expertenzugang zu Trainern
-und anderen Fachkollegen als besonderer Mehrwert - Unklarheit über
-Abgrenzung zu anderen SAP-Plattformen wie dem SAP Community Network
+- User Interface Design-Untersuchung führte zu Umbenennungen und
+  strukturellen Anpassungen
+- Entwicklung standardisierter Templates für einheitliche
+  Community-Gestaltung
+- Regelmäßige "tibetanische Gebetsmühlen" - wiederholte Erklärungen zu
+  Sinn und Funktionsweise
+
+**Wahrgenommener Nutzen - Moderatorenperspektive:**
+
+- Emotionaler Mehrwert durch positives Feedback, jedoch weniger
+  unmittelbar als im Klassenraum
+- Wertschätzung als ergänzendes Angebot zur klassischen Schulung
+- Herausforderung mit der Beteiligung nach dem 90-9-1-Modell (nur 1%
+  aktive Inhaltsersteller)
+
+**Wahrgenommener Nutzen - Lernerperspektive:**
+
+- Direktes Feedback und umfangreiche Informationen werden geschätzt
+- Expertenzugang zu Trainern und anderen Fachkollegen als besonderer
+  Mehrwert
+- Unklarheit über Abgrenzung zu anderen SAP-Plattformen wie dem SAP
+  Community Network
 
 ### Herausforderungen für Moderatoren und Lerner
 
-**Moderatoren-Herausforderungen:** Die Transformation von
-Klassenraumtrainern zu Community-Moderatoren bringt erhebliche
-Anpassungen mit sich: - **Zeitaufwand unterschätzt**: Ursprünglich
-kalkulierte 30 Minuten täglich reichen nicht aus, besonders bei aktiven
-Communities mit über 1000 Teilnehmern - **Fehlendes unmittelbares
-Feedback**: Im Gegensatz zum Face-to-Face-Setting erhalten Moderatoren
-weniger direktes Feedback - **Neue Kompetenzanforderungen**:
+**Moderatoren-Herausforderungen:**
+
+Die Transformation von Klassenraumtrainern zu Community-Moderatoren
+bringt erhebliche Anpassungen mit sich: - **Zeitaufwand unterschätzt**:
+Ursprünglich kalkulierte 30 Minuten täglich reichen nicht aus, besonders
+bei aktiven Communities mit über 1000 Teilnehmern - **Fehlendes
+unmittelbares Feedback**: Im Gegensatz zum Face-to-Face-Setting erhalten
+Moderatoren weniger direktes Feedback - **Neue Kompetenzanforderungen**:
 Wissensmoderation statt reiner Wissensvermittlung erfordert andere
 Fähigkeiten - **Demotivation durch geringe Beteiligung**: Viele
 Moderatoren sind frustriert, wenn ihre Beiträge wenig Resonanz finden
 
-**Lerner-Herausforderungen:** - **Kultureller Wandel erforderlich**:
-Zehn Jahre Sozialisierung auf konsumatorisches Lernen muss zu
-partizipativem, sozialem Lernen transformiert werden - **Heterogene
-Zielgruppe**: Mitarbeiter verschiedener Partnerunternehmen mit
-unterschiedlichen Lernkulturen - **Hemmungen bei Wissenslücken**:
-Berater zögern, ihre Unwissenheit vor Kollegen anderer Firmen zu
-zeigen - **Unklare Abgrenzung**: Verwirrung über verschiedene
-SAP-Lernplattformen und deren spezifische Zwecke
+**Lerner-Herausforderungen:**
+
+- **Kultureller Wandel erforderlich**: Zehn Jahre Sozialisierung auf
+  konsumatorisches Lernen muss zu partizipativem, sozialem Lernen
+  transformiert werden
+- **Heterogene Zielgruppe**: Mitarbeiter verschiedener
+  Partnerunternehmen mit unterschiedlichen Lernkulturen
+- **Hemmungen bei Wissenslücken**: Berater zögern, ihre Unwissenheit vor
+  Kollegen anderer Firmen zu zeigen
+- **Unklare Abgrenzung**: Verwirrung über verschiedene
+  SAP-Lernplattformen und deren spezifische Zwecke
 
 ### Lessons Learned und Handlungsempfehlungen
 
-**Erwartungsmanagement als Schlüsselfaktor:** Das wichtigste Learning
-betrifft das Erwartungsmanagement, besonders für Moderatoren aus dem
-Klassenraumbereich. Die Erwartung unmittelbaren Feedbacks muss angepasst
-werden an die Realitäten asynchroner Community-Interaktion.
+**Erwartungsmanagement als Schlüsselfaktor:**
 
-**Ressourcen und Unterstützung:** - Bereitstellung ausreichender
-Zeitkontingente über Innenaufträge - Entlastung der Trainer von anderen
-Aufgaben für Community-Betreuung - Lokalisierung der
-Schulungsmaterialien (deutsch statt englisch) - Verstärkte
-Präsenzworkshops mit erfahrenen Community-Managern
+Das wichtigste Learning betrifft das Erwartungsmanagement, besonders für
+Moderatoren aus dem Klassenraumbereich. Die Erwartung unmittelbaren
+Feedbacks muss angepasst werden an die Realitäten asynchroner
+Community-Interaktion.
 
-**Kulturelle Transformation:** - Entwicklung einer neuen Lernkultur hin
-zu selbstgesteuertem Lernen - Kontinuierliche Kommunikation über Sinn
-und Zweck der Communities - Integration in bestehende Bildungsangebote
-wie Klassenraumtrainings - Einbindung von SAP-Experten aus der
-Softwareentwicklung
+**Ressourcen und Unterstützung:**
+
+- Bereitstellung ausreichender Zeitkontingente über Innenaufträge
+- Entlastung der Trainer von anderen Aufgaben für Community-Betreuung
+- Lokalisierung der Schulungsmaterialien (deutsch statt englisch)
+- Verstärkte Präsenzworkshops mit erfahrenen Community-Managern
+
+**Kulturelle Transformation:**
+
+- Entwicklung einer neuen Lernkultur hin zu selbstgesteuertem Lernen
+- Kontinuierliche Kommunikation über Sinn und Zweck der Communities
+- Integration in bestehende Bildungsangebote wie Klassenraumtrainings
+- Einbindung von SAP-Experten aus der Softwareentwicklung
 
 ### Fazit
 
@@ -2442,17 +2516,20 @@ den Lernern. Mit 40% der 500.000 Learning Hub-Nutzer in Communities ist
 bereits ein solider Grundstein gelegt, aber das Potenzial für höhere
 Beteiligung und Engagement ist noch nicht ausgeschöpft.
 
-**Offene Fragen:** - Wie kann die Integration in Geschäftsprozesse
-verbessert werden? - Welche Anreizsysteme fördern die aktive
-Beteiligung? - Wie lässt sich die Transformation der Lernkultur
-beschleunigen?
+**Offene Fragen:**
 
-**Handlungsempfehlungen:** - Verstärktes Erwartungsmanagement für alle
-Beteiligten implementieren - Ausreichende Ressourcen für
-Community-Moderation bereitstellen - Kontinuierliche Schulung und
-Befähigung der Moderatoren in deutscher Sprache - Regelmäßige
-Kommunikation über Nutzen und Zweck der Communities - Integration von
-Communities in die gesamte Lernlandschaft vorantreiben
+- Wie kann die Integration in Geschäftsprozesse verbessert werden?
+- Welche Anreizsysteme fördern die aktive Beteiligung?
+- Wie lässt sich die Transformation der Lernkultur beschleunigen?
+
+**Handlungsempfehlungen:**
+
+- Verstärktes Erwartungsmanagement für alle Beteiligten implementieren
+- Ausreichende Ressourcen für Community-Moderation bereitstellen
+- Kontinuierliche Schulung und Befähigung der Moderatoren in deutscher
+  Sprache
+- Regelmäßige Kommunikation über Nutzen und Zweck der Communities
+- Integration von Communities in die gesamte Lernlandschaft vorantreiben
 
 Die Erfahrungen bei SAP verdeutlichen, dass die Digitalisierung des
 Lernens ein langfristiger Transformationsprozess ist, der sowohl
@@ -2660,18 +2737,23 @@ optimal verknüpft. Die innovative Studienorganisation mit Blended
 Learning und die heterogene Studierendengruppe schaffen ein
 einzigartiges Lernerlebnis.
 
-**Offene Fragen und Herausforderungen:** - Wie können innovative
-Weiterbildungsformate an staatlichen Hochschulen langfristig etabliert
-werden? - Welche alternativen Organisationsformen könnten die
-Kontinuität solcher Programme sichern? - Wie lässt sich die notwendige
-Flexibilität mit den Anforderungen der Akkreditierung vereinbaren?
+**Offene Fragen und Herausforderungen:**
 
-**Handlungsempfehlungen:** Anna Gutzmann appelliert eindringlich:
-"Lassen Sie uns eine Lösung in Deutschland finden, die wirklich auch
-dieses Fundament im Wissensmanagement, was es ja jetzt mit Rückblick 20
-Jahre gibt und vielleicht auch in die Zukunft geben könnte, nicht
-sterben lassen. Denn das Angebot ist wirklich wichtig und wir haben
-sehr, sehr viel Nachfrage momentan."
+- Wie können innovative Weiterbildungsformate an staatlichen Hochschulen
+  langfristig etabliert werden?
+- Welche alternativen Organisationsformen könnten die Kontinuität
+  solcher Programme sichern?
+- Wie lässt sich die notwendige Flexibilität mit den Anforderungen der
+  Akkreditierung vereinbaren?
+
+**Handlungsempfehlungen:**
+
+Anna Gutzmann appelliert eindringlich: "Lassen Sie uns eine Lösung in
+Deutschland finden, die wirklich auch dieses Fundament im
+Wissensmanagement, was es ja jetzt mit Rückblick 20 Jahre gibt und
+vielleicht auch in die Zukunft geben könnte, nicht sterben lassen. Denn
+das Angebot ist wirklich wichtig und wir haben sehr, sehr viel Nachfrage
+momentan."
 
 Die Diskussion zeigt die Notwendigkeit auf, neue Kooperationsmodelle zu
 entwickeln und in der geplanten Barcamp-Session Zukunftsvisionen für die
@@ -2689,11 +2771,13 @@ Anforderungen einer vernetzten, digitalisierten Arbeitswelt und stellt
 konkrete Ansätze für eine zukunftsorientierte Ausbildungsgestaltung
 vor.**
 
-Hauptthemen des Beitrags: 1. Digitaler Wandel und seine Auswirkungen auf
-die Industrie 2. Herausforderungen in der aktuellen
-Ausbildungslandschaft 3. Anforderungen an Mitarbeiter der Zukunft 4.
-Schaefflers Ansatz zur Transformation der Ausbildung 5. Neue Methoden
-und Kompetenzen für Ausbilder
+Hauptthemen des Beitrags:
+
+1.  Digitaler Wandel und seine Auswirkungen auf die Industrie
+2.  Herausforderungen in der aktuellen Ausbildungslandschaft
+3.  Anforderungen an Mitarbeiter der Zukunft
+4.  Schaefflers Ansatz zur Transformation der Ausbildung
+5.  Neue Methoden und Kompetenzen für Ausbilder
 
 ### Digitaler Wandel und seine Auswirkungen auf die Industrie
 
@@ -2886,11 +2970,13 @@ oft unklar bleibt und fordert eine Standardisierung der Disziplin, um
 aus der aktuellen "Wissenswerkstatt" eine verlässliche "Fahrradklinik"
 zu werden.**
 
-Hauptthemen des Beitrags: 1. Die paradoxe Situation des
-Wissensmanagements heute 2. Die entstehende Kluft zwischen Theorie und
-Praxis 3. Die Problematik der ständig wechselnden Modethemen 4. Das
-Identitätsproblem der Disziplin 5. Lösungsansätze für eine
-evidenzbasierte Zukunft
+Hauptthemen des Beitrags:
+
+1.  Die paradoxe Situation des Wissensmanagements heute
+2.  Die entstehende Kluft zwischen Theorie und Praxis
+3.  Die Problematik der ständig wechselnden Modethemen
+4.  Das Identitätsproblem der Disziplin
+5.  Lösungsansätze für eine evidenzbasierte Zukunft
 
 ### Die paradoxe Situation des Wissensmanagements heute
 
@@ -2974,15 +3060,19 @@ Verbindungen zwischen Symptomen und bewährten Behandlungsmethoden geben.
 "Hier das Symptom, hier die Behandlung, die sich bewährt hat, hier quasi
 das Problem, hier der Lösungsweg."
 
-**Standardisierung und gemeinsame Sprache**: - Entwicklung eines
-"Standardkatalogs" ähnlich dem medizinischen "Catalog of Diseases" -
-Einheitliche Terminologie, damit alle Beteiligten "vom Gleichen reden" -
-Strukturierung des Angebots durch eine "Wissenslandkarte"
+**Standardisierung und gemeinsame Sprache**:
 
-**Klare Abgrenzung**: - Fokussierung auf den Kernbereich des
-Wissensmanagements - Bewusste Entscheidung, welche Themen dazugehören
-und welche nicht - Industrie 4.0 beispielsweise "gehört zunächst mal
-nicht im engeren Umfeld zu dem, wo wir Antworten anbieten werden"
+- Entwicklung eines "Standardkatalogs" ähnlich dem medizinischen
+  "Catalog of Diseases"
+- Einheitliche Terminologie, damit alle Beteiligten "vom Gleichen reden"
+- Strukturierung des Angebots durch eine "Wissenslandkarte"
+
+**Klare Abgrenzung**:
+
+- Fokussierung auf den Kernbereich des Wissensmanagements
+- Bewusste Entscheidung, welche Themen dazugehören und welche nicht
+- Industrie 4.0 beispielsweise "gehört zunächst mal nicht im engeren
+  Umfeld zu dem, wo wir Antworten anbieten werden"
 
 **Konkrete Anwendungsorientierung**: Lehner betont die Notwendigkeit,
 "konkret zu bleiben" und sich an realen Unternehmensproblemen zu
@@ -3001,19 +3091,25 @@ Disziplin leidet unter:
 - Orientierung an wechselnden Modethemen statt an stabilen Grundlagen
 - Unklarem Nutzennachweis in der Praxis
 
-**Offene Fragen:** - Wie kann eine zentrale Autorität für Standards im
-Wissensmanagement etabliert werden? - Welche Rolle sollten bestehende
-Organisationen wie die Gesellschaft für Wissensmanagement dabei
-spielen? - Wie lässt sich die Balance zwischen Innovation und Stabilität
-in der Disziplinentwicklung finden?
+**Offene Fragen:**
 
-**Handlungsempfehlungen:** - Entwicklung einer gemeinsamen
-"Wissenslandkarte" zur Strukturierung der Disziplin - Fokussierung auf
-evidenzbasierte Methoden mit nachweisbarem Nutzen - Klare Abgrenzung des
-Wissensmanagements von anderen Disziplinen - Verstärkte Zusammenarbeit
-zwischen Wissenschaft und Praxis zur Überbrückung der Kluft -
-Transformation von der unklaren "Wissenswerkstatt" zur verlässlichen
-"Fahrradklinik" mit definierten Leistungen
+- Wie kann eine zentrale Autorität für Standards im Wissensmanagement
+  etabliert werden?
+- Welche Rolle sollten bestehende Organisationen wie die Gesellschaft
+  für Wissensmanagement dabei spielen?
+- Wie lässt sich die Balance zwischen Innovation und Stabilität in der
+  Disziplinentwicklung finden?
+
+**Handlungsempfehlungen:**
+
+- Entwicklung einer gemeinsamen "Wissenslandkarte" zur Strukturierung
+  der Disziplin
+- Fokussierung auf evidenzbasierte Methoden mit nachweisbarem Nutzen
+- Klare Abgrenzung des Wissensmanagements von anderen Disziplinen
+- Verstärkte Zusammenarbeit zwischen Wissenschaft und Praxis zur
+  Überbrückung der Kluft
+- Transformation von der unklaren "Wissenswerkstatt" zur verlässlichen
+  "Fahrradklinik" mit definierten Leistungen
 
 Die Vision ist klar: "Wir müssen damit aus dieser Ecke Wissenswerkstatt
 rauskommen, wo keiner weiß, was das ist und halt dann vielleicht

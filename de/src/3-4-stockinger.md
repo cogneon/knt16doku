@@ -3,6 +3,7 @@
 **Die EnBW blickt auf eine über 20-jährige Geschichte des Wissensmanagements zurück, die von strategischen Höhenflügen bis hin zu pragmatischen Neuausrichtungen reicht. Der Vortrag zeigt die Evolution von klassischen Wissensmanagement-Ansätzen hin zu modernen, agilen Arbeitsformen und digitalen Lernumgebungen auf. Trotz wechselnder strategischer Prioritäten bleibt Wissensmanagement ein zentrales Element der Organisationsentwicklung, auch wenn es heute unter anderen Begriffen firmiert.**
 
 Hauptthemen des Beitrags:
+
 1. Frühe strategische Phase des Wissensmanagements (2005-2008)
 2. Operative Umsetzung durch Wissenstransfer-Methoden
 3. Innovation Labs und neue Arbeitsformen
@@ -16,6 +17,7 @@ Die EnBW war bereits 2006 "auf dem Weg zur wissensorientierten Unternehmensführ
 Von Beginn an verfolgte die EnBW eine dezentrale Strategie: Zentrale Koordination und Unterstützung sollten mit dezentraler Konzeption, Umsetzung und Verantwortung kombiniert werden. Diese Herangehensweise erkannte die unterschiedlichen Anforderungen der verschiedenen Geschäftsbereiche - von Strom und Gas bis hin zu Wasser - an.
 
 Ein zentrales Instrument war die "Wissensbilanz made in Germany", die das intellektuelle und immaterielle Kapital des Unternehmens bewertete. Neun Indikatoren wurden definiert:
+
 - Fachkompetenz
 - Managementkompetenz
 - Sozialkompetenz
@@ -30,6 +32,7 @@ Ab 2008 wurden die Ergebnisse sogar öffentlich im Lagebericht des Geschäftsber
 ### Operative Umsetzung durch Wissenstransfer-Methoden
 
 Parallel zur strategischen Ebene entwickelte die EnBW ab 2005 operative Ansätze für den Transfer von Erfahrungswissen. Im Zentrum stand die "Wissensstaffette" - eine einfache Methode mit moderierten Übergabegesprächen zwischen Wissensgebern und Wissensnehmern. Die Methode wurde von VW Coaching eingekauft und für verschiedene Anwendungsgebiete adaptiert:
+
 - Ausscheiden oder Wechsel von Mitarbeitern
 - Aufbau von Wissenslandkarten
 - Einarbeitung neuer Mitarbeiter
@@ -69,6 +72,7 @@ Der Cafeteria-Bereich wird zunehmend als informeller Lernort genutzt: "Es sitzen
 Die EnBW-Projekte lassen sich in das Wissensmanagement-Modell von Probst, Raub und Romhardt einordnen, vereinfacht auf vier Elemente: Generieren, Sichern, Verteilen und Anwenden von Wissen. Einerseits wurden "fast alle Elemente gut abgedeckt", andererseits könnte man kritisieren, dass "überall ein bisschen was gemacht" wurde ohne klaren Schwerpunkt.
 
 Zentrale Erkenntnisse:
+
 - **Begrenzte Nachhaltigkeit**: "Einige von diesen Methoden sind nicht so langlebig" - die Wissensbilanz wird nicht mehr durchgeführt, andere Ansätze sind "eingeschlafen"
 - **Zyklische Entwicklung**: "Das ändert sich ganz einfach" - manche Themen wie Communities oder Projekt-Wissensmanagement erleben Wiederaufblühungen
 - **Weniger Technikfokussierung**: Die "Toolfrage steht nicht mehr so im Vordergrund, sondern eher das Wie und weniger das Womit"
@@ -76,6 +80,7 @@ Zentrale Erkenntnisse:
 - **Middle-Up-Down-Prinzip**: Initiativen aus dem mittleren Management können sich "wie so ein Feuer von nach unten und oben ausbreiten", brauchen aber "einen starken Treiber"
 
 Fünf Erfolgsfaktoren wurden identifiziert:
+
 1. Geeignete Rahmenbedingungen (ähnlich einem "bedingungslosen Lerngrundeinkommen")
 2. Die richtige Haltung und Werte als Schwerpunkt
 3. Entwicklung einer "wissensorientierten Brille" bei Führungskräften
@@ -89,6 +94,7 @@ Die EnBW zeigt exemplarisch die Evolution des Wissensmanagements in einem Großk
 Die zentrale Botschaft lautet: "Wissen macht glücklich" - aber nur "wenn man die richtige Brille auf hat, dann kann man ganz sicher sein, dass das auch Wissen oder Wissenteilen auch glücklich macht."
 
 **Handlungsempfehlungen aus dem Vortrag:**
+
 - Entwicklung eines konkreten Maßnahmenmanagements und Controllings für Wissensmanagement-Initiativen
 - Stärkere Verbindung zu Geschäftszielen herstellen
 - Führungskräfte in "wissensorientierter Brille" schulen

@@ -114,11 +114,13 @@ Die kleine Gruppengröße von 16 Teilnehmern wird als "großer Luxus" und "ganz 
 Der Masterstudiengang Informations- und Wissensmanagement der Hochschule Hannover stellt ein erfolgreiches Modell für praxisorientierte Weiterbildung dar, das theoretische Fundierung mit praktischer Anwendung optimal verknüpft. Die innovative Studienorganisation mit Blended Learning und die heterogene Studierendengruppe schaffen ein einzigartiges Lernerlebnis.
 
 **Offene Fragen und Herausforderungen:**
+
 - Wie können innovative Weiterbildungsformate an staatlichen Hochschulen langfristig etabliert werden?
 - Welche alternativen Organisationsformen könnten die Kontinuität solcher Programme sichern?
 - Wie lässt sich die notwendige Flexibilität mit den Anforderungen der Akkreditierung vereinbaren?
 
 **Handlungsempfehlungen:**
+
 Anna Gutzmann appelliert eindringlich: "Lassen Sie uns eine Lösung in Deutschland finden, die wirklich auch dieses Fundament im Wissensmanagement, was es ja jetzt mit Rückblick 20 Jahre gibt und vielleicht auch in die Zukunft geben könnte, nicht sterben lassen. Denn das Angebot ist wirklich wichtig und wir haben sehr, sehr viel Nachfrage momentan."
 
 Die Diskussion zeigt die Notwendigkeit auf, neue Kooperationsmodelle zu entwickeln und in der geplanten Barcamp-Session Zukunftsvisionen für die Wissensmanagement-Ausbildung zu erarbeiten. Nur durch innovative Lösungen kann verhindert werden, dass wertvolle Expertise und bewährte Ausbildungsformate verloren gehen.

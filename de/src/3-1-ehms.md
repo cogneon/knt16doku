@@ -3,6 +3,7 @@
 **Karsten Ehms reflektiert in seinem Vortrag über zwei Dekaden Wissensmanagement bei Siemens und zeigt auf, warum die Transformation in diesem Bereich langsamer vorangeht als erhofft. Er analysiert typische Fehler und Herausforderungen, stellt bewährte Werkzeuge vor und entwickelt eine neue Perspektive für Wissensmanagement im Zeitalter der Digitalisierung. Sein zentraler Ansatz: Wissensmanagement als Balance zwischen persönlichem Wissensaustausch und informationsgestützten Systemen zu verstehen.**
 
 Hauptthemen des Beitrags:
+
 1. Historische Entwicklung des Wissensmanagements bei Siemens
 2. Bewährte Werkzeuge und Plattformen
 3. Symptome und Ursachen der Schwierigkeiten im Wissensmanagement
@@ -37,12 +38,14 @@ Aus der Zeit des zentralen Wissensmanagement-Offices sind mehrere Werkzeuge ents
 Ehms identifiziert sowohl unspezifische als auch spezifische Symptome, die zeigen, warum Wissensmanagement schwierig bleibt:
 
 **Unspezifische Symptome** (auch auf andere Management-Disziplinen übertragbar):
+
 - Der Dauerbrenner "Technologie ist nur Enabler" - eine Aussage, die zwar richtig, aber wenig hilfreich ist
 - Die Suche nach der einen PowerPoint-Slide, die den Vorstand überzeugt
 - Der Ruf nach einem neuen Namen für bekannte Konzepte
 - Motivationsfragen, die als unlösbar dargestellt werden, obwohl sie psychologisch gut verstanden sind
 
 **Spezifische Symptome des Wissensmanagements**:
+
 - Der Versuch, alles Wissen managen zu wollen, ohne selektiv vorzugehen
 - Die Gleichsetzung von Wissensmanagement mit dem Aufschreiben und Explizieren allen Wissens
 - Die Anwendung von "gesundem Menschenverstand" ohne entsprechende Ausbildung
@@ -57,6 +60,7 @@ Die **Unsteuerbarkeit und Unkontrollierbarkeit** von Wissen erfordert einen Foku
 ### Theoretische Fundierung als Schlüssel zum Erfolg
 
 Ein zentraler Kritikpunkt ist das mangelnde Rückgreifen auf etablierte Basisdisziplinen. Wissensmanagement könnte von folgenden Bereichen profitieren:
+
 - Managementlehre
 - Psychologie und Soziologie  
 - Allgemeine Didaktik und Pädagogik
@@ -70,6 +74,7 @@ Ehms warnt vor der falschen Unterscheidung zwischen "tacit" und "explicit" knowl
 Ehms schlägt eine vereinfachte Definition vor: **Wissensmanagement beschäftigt sich mit der Balance zwischen persönlichem Wissensaustausch (Person zu Person) und informationsgestütztem Austausch (über Dokumente und Systeme).**
 
 Diese Definition vermeidet komplexe Abgrenzungen zwischen Wissen und Information und fokussiert auf die praktische Herausforderung: Für jede Organisation und jede spezifische Situation die richtige Balance zu finden zwischen:
+
 - Direktem persönlichem Wissensaustausch
 - Informationsgestützten Systemen
 - Fallweiser Anpassung statt universeller Best Practices
@@ -77,6 +82,7 @@ Diese Definition vermeidet komplexe Abgrenzungen zwischen Wissen und Information
 ### Herausforderungen der Digitalisierung
 
 Die Digitalisierung erweitert das Kontinuum um eine dritte Dimension: **kognitive Systeme und Automatismen**. Dies verschärft die bereits schwierige Balance, da nun drei Optionen abgewogen werden müssen:
+
 - Persönlicher Wissensaustausch
 - Dokumentenbasierte Systeme  
 - Automatisierte/KI-gestützte Systeme
@@ -88,6 +94,7 @@ Die zentrale Frage lautet: "Wen fragen Sie, der keine eindeutigen Eigeninteresse
 Nach 20 Jahren Wissensmanagement bei Siemens zeigt sich, dass das Thema Wissen aktueller denn je ist, während klassisches "Management" möglicherweise überholt ist. Die Herausforderungen der Immaterialität, die schon das Wissensmanagement prägten, sind hochrelevant für aktuelle Digitalisierungsthemen.
 
 **Offene Fragen und Handlungsempfehlungen**:
+
 - Wie kann die Balance zwischen persönlichem Austausch, dokumentenbasierten Systemen und KI-Automatisierung fallspezifisch optimiert werden?
 - Wie lässt sich die notwendige theoretische Fundierung in der Praxis etablieren, ohne die Komplexität pluralistischer Ansätze zu scheuen?
 - Welche Rolle können Wissensspezialisten als unabhängige Berater bei Digitalisierungsentscheidungen spielen?

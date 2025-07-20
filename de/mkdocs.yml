@@ -35,7 +35,6 @@ nav:
       - Markdown: https://github.com/cogneon/knt16doku/blob/master/de/knt16-Documentation-de.md
 
 
-
 theme:
     name: 'material'
 #    custom_dir: src/overrides

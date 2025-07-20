@@ -3,6 +3,7 @@
 **Franz Lehner analysiert die problematische Entwicklung des Wissensmanagements als Disziplin und zeigt auf, wie sich eine Kluft zwischen akademischer Forschung und praktischer Anwendung entwickelt hat. Er verdeutlicht, dass trotz etablierter Wissensmanagement-Abteilungen in vielen Unternehmen der messbare Nutzen oft unklar bleibt und fordert eine Standardisierung der Disziplin, um aus der aktuellen "Wissenswerkstatt" eine verlässliche "Fahrradklinik" zu werden.**
 
 Hauptthemen des Beitrags:
+
 1. Die paradoxe Situation des Wissensmanagements heute
 2. Die entstehende Kluft zwischen Theorie und Praxis
 3. Die Problematik der ständig wechselnden Modethemen
@@ -49,12 +50,14 @@ Lehner entwickelt eine Vision für die Zukunft des Wissensmanagements, die sich 
 
 **Evidenzbasierter Ansatz**: Ähnlich der Medizin sollte es klare Verbindungen zwischen Symptomen und bewährten Behandlungsmethoden geben. "Hier das Symptom, hier die Behandlung, die sich bewährt hat, hier quasi das Problem, hier der Lösungsweg."
 
-**Standardisierung und gemeinsame Sprache**: 
+**Standardisierung und gemeinsame Sprache**:
+
 - Entwicklung eines "Standardkatalogs" ähnlich dem medizinischen "Catalog of Diseases"
 - Einheitliche Terminologie, damit alle Beteiligten "vom Gleichen reden"
 - Strukturierung des Angebots durch eine "Wissenslandkarte"
 
-**Klare Abgrenzung**: 
+**Klare Abgrenzung**:
+
 - Fokussierung auf den Kernbereich des Wissensmanagements
 - Bewusste Entscheidung, welche Themen dazugehören und welche nicht
 - Industrie 4.0 beispielsweise "gehört zunächst mal nicht im engeren Umfeld zu dem, wo wir Antworten anbieten werden"
@@ -71,11 +74,13 @@ Franz Lehner zeichnet ein ernüchterndes Bild des aktuellen Zustands des Wissens
 - Unklarem Nutzennachweis in der Praxis
 
 **Offene Fragen:**
+
 - Wie kann eine zentrale Autorität für Standards im Wissensmanagement etabliert werden?
 - Welche Rolle sollten bestehende Organisationen wie die Gesellschaft für Wissensmanagement dabei spielen?
 - Wie lässt sich die Balance zwischen Innovation und Stabilität in der Disziplinentwicklung finden?
 
 **Handlungsempfehlungen:**
+
 - Entwicklung einer gemeinsamen "Wissenslandkarte" zur Strukturierung der Disziplin
 - Fokussierung auf evidenzbasierte Methoden mit nachweisbarem Nutzen
 - Klare Abgrenzung des Wissensmanagements von anderen Disziplinen

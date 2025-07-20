@@ -3,6 +3,7 @@
 **Ausgehend von der digitalen Transformation und den Erfahrungen bei Schaeffler zeigt dieser Vortrag auf, wie sich die Ausbildung von Fachkräften grundlegend wandeln muss. Der Referent beleuchtet die Herausforderungen zwischen traditionellen Ausbildungsmethoden und den Anforderungen einer vernetzten, digitalisierten Arbeitswelt und stellt konkrete Ansätze für eine zukunftsorientierte Ausbildungsgestaltung vor.**
 
 Hauptthemen des Beitrags:
+
 1. Digitaler Wandel und seine Auswirkungen auf die Industrie
 2. Herausforderungen in der aktuellen Ausbildungslandschaft
 3. Anforderungen an Mitarbeiter der Zukunft

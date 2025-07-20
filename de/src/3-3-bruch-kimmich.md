@@ -3,6 +3,7 @@
 **Eva-Maria Bruch und Martin Kimmich teilen ihre Erfahrungen aus über zehn Jahren Wissensmanagement bei Festo, einem Weltmarktführer in der Industrieautomatisierung. Der Vortrag zeigt die Evolution von einem IT-zentrierten Ansatz hin zu einem integrierten Konzept, das Wissens- und Kompetenzmanagement verbindet und dabei sowohl technische Tools als auch kulturelle Aspekte berücksichtigt. Besonders hervorzuheben ist die strategische Verankerung auf Eigentümerebene und die praktische Umsetzung durch Communities, Social Networking und moderne Collaboration-Tools.**
 
 Hauptthemen des Beitrags:
+
 1. Unternehmenskontext und strategische Verankerung von Wissensmanagement bei Festo
 2. Organisatorische Einbettung und Selbstverständnis des Wissensmanagements
 3. Konkrete Methoden und Tools im Wissensmanagement-Portfolio
@@ -22,6 +23,7 @@ Die Eigentümer beschäftigen sich bereits seit den 1950er und 1960er Jahren int
 Das Wissensmanagement ist organisatorisch im Bereich HR Development angesiedelt, der sowohl deutsche als auch globale HR-Funktionen umfasst. Seit zweieinhalb Jahren sind Wissensmanagement und Kompetenzmanagement organisatorisch verbunden, was die enge Verzahnung beider Disziplinen unterstreicht.
 
 Der HR Development Bereich gliedert sich in mehrere Bereiche:
+
 - Knowledge and Competence Management
 - Academy (Learning Infrastruktur)
 - Qualifizierung (klassischer Weiterbildungskatalog)
@@ -56,6 +58,7 @@ Mit IBM als Partner wurde eine Strategie entwickelt, die Communities, Intranet, 
 
 **Phase 2 (2007-2013): Institutionalisierung**
 2006 wurde ein Competence Center Wissensmanagement in der globalen IT-Organisation etabliert. Kernprojekte waren:
+
 - "My Festo": Aufwertung des Lotus Notes-basierten Intranets mit Personalisierungsfunktionen
 - "Fit for Communication": Programm zum Wandel von E-Mail-lastiger zu persönlicher und Online-Kommunikation
 
@@ -93,11 +96,13 @@ Der Vortrag zeigt eindrucksvoll die Evolution des Wissensmanagements bei Festo �
 Besonders bemerkenswert ist die proaktive Herangehensweise, wie beim "Fit for Communication" Programm, das die Organisation rechtzeitig auf die Herausforderungen der Wirtschaftskrise vorbereitete. Die kontinuierliche Weiterentwicklung und Anpassung an neue Trends (ISO 9001, Office 365, Social Intranet) zeigt die Lernfähigkeit der Organisation.
 
 **Offene Fragen:**
+
 - Wie kann das Mittelmanagement effektiver als Multiplikator gewonnen werden?
 - Welche Rolle wird Wissensmanagement in einer zunehmend digitalisierten Arbeitswelt spielen?
 - Sind organisatorische Labels wie "Wissensmanagement" noch zeitgemäß oder behindern sie die Integration?
 
 **Handlungsempfehlungen:**
+
 - Externe Vernetzung und Austausch mit anderen Organisationen fortsetzen
 - Geduld und langen Atem bei der Etablierung sozialer Tools beweisen
 - Den Fokus auf den Mehrwert für den einzelnen Mitarbeiter beibehalten
