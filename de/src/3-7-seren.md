@@ -1,6 +1,6 @@
 ## 21st Century Skills: Ausbildung der Zukunft
 
-**Ausgehend von der digitalen Transformation und den Erfahrungen bei Schaeffler zeigt dieser Vortrag auf, wie sich die Ausbildung von Fachkräften grundlegend wandeln muss. Der Referent beleuchtet die Herausforderungen zwischen traditionellen Ausbildungsmethoden und den Anforderungen einer vernetzten, digitalisierten Arbeitswelt und stellt konkrete Ansätze für eine zukunftsorientierte Ausbildungsgestaltung vor.**
+**Ausgehend von der digitalen Transformation und den Erfahrungen bei Schaeffler zeigt dieser Vortrag auf, wie sich die Ausbildung von Fachkräften grundlegend wandeln muss. Paul Seren beleuchtet die Herausforderungen zwischen traditionellen Ausbildungsmethoden und den Anforderungen einer vernetzten, digitalisierten Arbeitswelt und stellt konkrete Ansätze für eine zukunftsorientierte Ausbildungsgestaltung vor.**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qHuWC4b1S1M?si=r3DMmjvtec0p8L4O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
