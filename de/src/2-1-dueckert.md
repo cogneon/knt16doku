@@ -72,6 +72,7 @@ Dückert identifiziert drei Entwicklungsstufen:
 Für die Zukunft sieht Dückert die Notwendigkeit, Wissen und Lernen in jeden Organisationsprozess zu integrieren - von der Gebäudeplanung bis zu Arbeitsplätzen der Zukunft. Die ISO 9001 bietet seiner Meinung nach eine gute Ausgangsbasis für ein solches Framework.
 
 **Zentrale Elemente eines Wissensmanagement-Frameworks:**
+
 - Purpose der Organisation und strategische Ziele
 - Balance zwischen Hierarchie und Netzwerk
 - Mensch im Mittelpunkt mit multiplen Rollen
