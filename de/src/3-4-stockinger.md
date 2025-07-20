@@ -67,6 +67,7 @@ Beim ersten Kick-off überraschten 100-130 interessierte Mitarbeiter - "ein vira
 Seit einem Jahr läuft ein großes Digitalisierungsprojekt für die Weiterbildung. Traditionell bedeutete Weiterbildung bei der EnBW "zu 90, in manchen Bereichen über 90 Prozent Präsenzveranstaltungen". Dieser Ansatz galt als nicht mehr zukunftsfähig.
 
 Vier Arbeitsbereiche wurden definiert:
+
 - **Neue Lernmedien**: Verstärkter Einsatz von Videos und Web-based Trainings als Ergänzung zu klassischen Formaten
 - **Lernorte**: Schaffung von Rückzugsmöglichkeiten abseits des normalen Arbeitsplatzes für digitales Lernen
 - **PE Campus**: Eine digitale Plattform als zentraler Einstiegspunkt für alle Weiterbildungsangebote im Konzern
